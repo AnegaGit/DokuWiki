@@ -1,0 +1,18 @@
+====== Day ======
+===== Dark and Light =====
+{{:daylength.png?200 |}}
+Daylength and twilight calculated via curves.
+
+Values mirrored at 12:00.
+
+Twilight centered at border of daylight.
+==== Parameter: ====
+
+  *   "daylength": {
+  *   "minDaylength": 8.0,
+  *   "maxDaylength": 16.0,
+  *   "curveDaylength": 13,
+  *   "minTwilight": 0.5,
+  *   "maxTwilight": 1.5,
+  *   "curveTwilight": 14
+  *   },

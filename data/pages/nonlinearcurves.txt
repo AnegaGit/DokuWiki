@@ -1,0 +1,7 @@
+====== Nonlinear Dependencies ======
+=== 0 = linear ===
+|1 = medium reverse S :{{:nonlinear1.png?200|}}|2 = slight reverse S :{{:nonlinear2.png?200|}}|3 = strong reverse S :{{:nonlinear3.png?200|}}|
+|4 = medium S :{{:nonlinear4.png?200|}}|5 = slight S :{{:nonlinear5.png?200|}}|6 = strong S :{{:nonlinear6.png?200|}}|
+|7 = medium fast start :{{:nonlinear7.png?200|}}|8 = slight fast start :{{:nonlinear8.png?200|}}|9 = strong fast start :{{:nonlinear9.png?200|}}|
+|10 = medium slow start :{{:nonlinear10.png?200|}}|11 = slight slow start :{{:nonlinear11.png?200|}}|12 = strong slow start :{{:nonlinear12.png?200|}}|
+|13 = sinus :{{:nonlinear13.png?200|}}|14 = sinus :{{:nonlinear14.png?200|}}|15 = yearly flood :{{:nonlinear15.png?200|}}|

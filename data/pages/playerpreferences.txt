@@ -1,0 +1,6 @@
+====== Player Preferences ======
+Player preferences are strored in a json parameter file payerpreferences.json.
+
+^Parameter^Meaning^Possible values^
+|**Loglevel**| Defines which messages are written to the logfile| 0 = Error only\\ 1 = Error and warnings\\ 2 = Error, warnings and information\\ 3 = Everything|
+

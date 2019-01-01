@@ -1,0 +1,33 @@
+====== Calendar and Time ======
+==== Real Time Relations ====
+A day in game lasts 8:15 hours of real time.
+
+The 1st day of calendar 1. Spring of year 00 based on 1970-01-01 00:00.
+
+The time calculation based on UTC.
+==== Game Calendar ====
+A day consists of 24 hours with 60 minutes each.
+
+A year consists of 4 seasons with 84 days each.
+
+=== Seasons ===
+  * Spring
+  * Summer
+  * Autumn
+  * Winter
+
+A year has 336 days.
+
+==== Player Calendar ====
+Character can use own calendar as long as the length of a year is not changed.
+
+==== Example ====
+^Real time^Game time^
+|1970-01-01 00:00:00|1. day in Spring of year 0 00:00|
+|2018-09-13 00:00:00|1. day in Spring of year 154 00:00|
+|2001-10-12 10:02:31|84. day in Summer of year 100 00:50|
+
+
+
+
+

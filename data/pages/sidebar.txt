@@ -1,0 +1,8 @@
+=== Available Sections ===
+== General ==
+[[start|Basic Idea]]\\
+[[logo|Logo]]
+
+== Internal ==
+[[nonlinearcurves|Nonlinear Dependencies]]\\
+[[playerpreferences|Player Preferences]]
