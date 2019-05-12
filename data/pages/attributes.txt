@@ -1,0 +1,18 @@
+====== Attributes ======
+Attributes influence basic character parameter.
+^Attribute^Effect^Used nonlinear curve^
+|Constitution|max [[health|Health points]]|4|
+|Healthiness|recovery rate of [[health|Health points]]|10|
+|Essence|max [[mana|Mana points]]|12|
+|Magic Awareness|recovery rate of [[mana|Mana points]]|3|
+|Endurance|max [[stamina|Stamina points]]|4|
+|Fitness|recovery rate of [[stamina|Stamina points]]|12|
+|[[strenghth|Strength]]|Weight, the character can carry|2|
+|Dexterity|quality of crafted items||
+|Agility|[[speed|moving speed]]|9,12|
+|Intelligence|learning speed||
+|[[perception|Perception]]|detection range and capability to find hidden items|8, 12|
+|[[luck|Luck]]|probability of extraordinary results|1, 7|
+Every attribute has a range of 0-20.
+
+A new character starts with 90 attribute points in total. With play time more attribute points can be distributed. Eventually the total sum of all attribute points for a character is 120 (10 each). 

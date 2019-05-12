@@ -1,0 +1,10 @@
+====== Money ======
+The smallest possible currency unit is a copper.\\
+Prices are always given in //x Gold y Silver z Copper//.
+
+==== Standard coins ====
+^Coin^Value^
+|Copper|1 copper|
+|Silver|100 copper|
+|Gold|100 silver\\ 10.000 copper|
+{{:coins.jpg?nolink&400|}}

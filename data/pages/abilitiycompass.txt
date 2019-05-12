@@ -1,0 +1,19 @@
+====== Compass ======
+The ability defines how good a character can identify the north direction.
+The compass is controlled by the ability.
+
+**Shall we turn to left or right?**
+==== Not Available ====
+//The town is 5 minutes away and I'm lost!//\\
+You have no idea where north might be.
+==== Poor ====
+//That's where we comming from ... but.//\\
+Your compass knows 4 directions.
+==== Good ====
+//That way looks better.//\\
+Your compass knows 8 directions..
+==== Excellent ====
+//Follow me, I know the way!//\\
+Your compass shows exact north.
+
+

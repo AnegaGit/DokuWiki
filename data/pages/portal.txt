@@ -1,0 +1,11 @@
+====== Teleportation ======
+===== Stationary Portals =====
+You can reach every active stationary portal from every portal.
+{{ :stationary_portal.jpg?nolink&400 |}}
+Use the portal to select the wanted target portal.
+
+**Limitation**\\
+  * Teleportation requires a minor spell, every character can perform with a very low amount of mana.\\ Even character with the minimum essence of 0 have sufficient mana for a teleport.
+  * Teleportation costs some coins (5 silver).
+  * Illiterate character cannot read the portal name
+  * If the portal cannot be used, there is no valid target possible.\\ This might be since some portals are inactive at the moment.

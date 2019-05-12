@@ -1,0 +1,19 @@
+====== Inner Clock ======
+The ability defines how good a character can identify the correct time.
+The watch hand of the clock is controlled by the ability.
+
+**What time is it?**
+==== Not Available ====
+//Summer nights are shorter - you are kidding me!//\\
+You know whether it is morning, afternoon or night. At least if you can see the sky. In a mine or dungeon it's always night.
+==== Poor ====
+//10 or 11 o'clock - what does it matter?//\\
+With an accuracy of about 3 hours you can define the current time. At least if you can see the sky. In a mine or dungeon it's always night.
+==== Good ====
+//It's 7:00, sunrise will be soon.//\\
+With an accuracy of about 1/2 hour you know the time. At least if you can see the sky. In a mine or dungeon the accuracy drops to 3 hours.
+==== Excellent ====
+//5 to 12, for sure!//\\
+Wherever you are, you know the time.
+
+

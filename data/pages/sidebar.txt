@@ -3,6 +3,17 @@
 [[start|Basic Idea]]\\
 [[logo|Logo]]
 
+== Play Game ==
+[[key|Control Keys]]\\
+[[mouse|Mouse]]\\
+[[movecontrol|Moving a Character]]\\
+[[gmactions|GM actions]]
+
+== Character ==
+[[attributes|Attributes]]\\
+[[abilities|Abilities]]
+
 == Internal ==
 [[nonlinearcurves|Nonlinear Dependencies]]\\
-[[playerpreferences|Player Preferences]]
+[[playerpreferences|Player Preferences]]\\
+[[license|Licenses and Refereces]]

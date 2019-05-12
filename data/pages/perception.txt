@@ -1,0 +1,9 @@
+====== Perception ======
+How much a character can see depends on the attribute perception.
+^Attribute^Effect^Min^Max^Used nonlinear curve^
+|Perception|range of visible names|15|60|8|
+|Perception|zoom distance|57|2|12|
+=== Visible Names ===
+A character can see the name and health state of other character, NPC and monster within a certain distance.
+=== Zoom Distance ===
+The camera angle can be reduced in first person view. This allows to examine details such as monster equipment or road signs from a distance. The values are in a range of a row focal length of 20 - 350.

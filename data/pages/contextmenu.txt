@@ -1,0 +1,14 @@
+====== Context Menu ======
+Using the right mouse key on any character, NPC or usable item, a context menu opens.\\
+It closes once the mouse left the menu area or a function was selected.\\
+Only available functions for this character, NPC or item are shown.
+
+{{:context_menu.jpg?nolink&150 |Context menu}}
+^Icon^Items^Character^Function^
+|Talk|-|NPC only|If close enough, talk to the NPC\\ else go to the NPC.|
+|Attack|-|NPC and player|If close enough, attack\\ else go to the character and attack.|
+|Info|-|all|Open the character information.|
+|Select|all|all|Select the item or character.|
+|Go To|all|all|Go to the item or character.\\ Stop in interaction range|
+|Use|useable|-|If close enough, use the item\\ else go to the item and use it.\\ Using an item may require additional precautions.|
+|Take|pickable|-|If close enough, grab the item and place it into the backpack\\ else go to the item and grab it.\\ Cannot be taken if the player cannot carry the item.|

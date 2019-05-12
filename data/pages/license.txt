@@ -1,0 +1,39 @@
+====== References and Licenses ======
+===== Basic License =====
+Anega uses the MIT X11 license with the restriction the software can be sold as game only.
+
+Copyright (c) 2019 Andreas Bode www.anega.de\\
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell games based of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+See also [[https://en.wikipedia.org/wiki/MIT_License|Wikipedia]] for more details.
+===== Used External License =====
+The game based on the Unity asset uMMORPG from VIS2K. Using Anega requires a valid license of uMMORPG. [[ https://assetstore.unity.com/packages/templates/systems/ummorpg-51212|Link to unity asset store]]
+
+The WEB page based on the Joomla template castlejoomla from GameSiteTemplates.com.
+===== References =====
+The usage of some resources are free. Thank you to the creators.
+
+^Element^Location in Anega^Originator^Link^License^
+|Human body|equipment UI|Jerk cliparts|https://sitejerk.com/|[[https://sitejerk.com/terms.html|Royalty Free]]|
+|496 pixel art icons for medieval fantasy RPG|icons|Henrique Lazarini (7Soul1)|https://opengameart.org/content/496-pixel-art-icons-for-medievalfantasy-rpg|[[http://creativecommons.org/publicdomain/zero/1.0/|Public domain]]|
+|Farming Tool Icons|icons|Calciumtrice|farming-tool-icons|[[https://creativecommons.org/licenses/by/3.0/|CC-BY 3.0]]|
+|Texture collection|textures|Texturize club|http://www.texturise.club|[[http://www.texturise.club/p/licence_5.html|Royalty Free]]|
+|Stone_sand|textures|PagDev|https://opengameart.org/content/stone001-texture-seamless|[[https://creativecommons.org/licenses/by/4.0/|CC-BY 4.0]]|
+|Ubuntu Font Family|fonts|Canonical|https://design.ubuntu.com/font/|[[http://font.ubuntu.com/licence/|UBUNTU FONT LICENCE]]|
+===== Code Text =====
+The following code shall be part of each code file:
+<code>Anega Copyright 2019 www.anega.de
+This program is free software: you can redistribute it and/or modify it under the
+terms of the MIT X11.
+
+Special limitation such as uMMORPG based code.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.</code>
+
+

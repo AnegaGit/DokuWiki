@@ -1,0 +1,10 @@
+====== Lightgallery ======
+How to set up Lightgallery for the webpage.
+
+''{lightgallery galleryName=development type=local path=images/development/2019-03-03_Chat previewWidth=150}Have a look to the minimap{/lightgallery}''
+
+|galleryName|all pictures in a gallery are shown together in the show|
+|path|path or file shown in preview\\ must be directory or full file name|
+
+
+[[http://tutorial.joompolitan.com/light-gallery-for-joomla.html|Help and tutorial]]

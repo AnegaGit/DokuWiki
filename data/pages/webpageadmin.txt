@@ -1,0 +1,4 @@
+====== Webpage Edit and Admin ======
+The webpage based on a Joomla template from artisteer.
+
+[[http://www.artisteer.com/?p=help_joomla#joomla6|Joomla help from the provider]]

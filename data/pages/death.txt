@@ -1,0 +1,6 @@
+====== Player Death ======
+If a character dies, it can be revived after a short time.
+
+The player can choose the respawn point.
+
+Mana and Health are at 0 after resuscitation, Stamina is around 1/4.

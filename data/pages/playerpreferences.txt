@@ -1,6 +1,81 @@
 ====== Player Preferences ======
-Player preferences are strored in a json parameter file payerpreferences.json.
+Player preferences are strored in a json parameter file %USERPROFILE%\AppData\Local\Anega\PlayerPreferences.json.
+
+If the file doesn't exists, default parameter are used.
+
+Be careful editing the file. It can be loaded only, if the format is a valid json.\\
+Variables that should not be changed do not need to be present in the file.\\
+Variables starting with '#' are comments only. You can add own comments.\\
+Boolean values: 0= false, 1= true.\\
+Colors must be in rgba float notation (0.0=0, 1.0=255): <code>{"r": 1.0,"g": 0.35,"b": 0.0,"a": 1.0}</code>
 
 ^Parameter^Meaning^Possible values^
-|**Loglevel**| Defines which messages are written to the logfile| 0 = Error only\\ 1 = Error and warnings\\ 2 = Error, warnings and information\\ 3 = Everything|
+|**Logging**|||
+|logLevel| Defines which messages are written to the [[logfile|logfile]]| Position in string:\\ Error\\ Warnings\\ Information\\ Extended\\ Chat|
+|**GM control**|||
+|keyGMAction|Key that has to be pressed to confirm GM actions|ASCII Key code|
+|overlayGmNameAdd|Name prefix used for player GM in the name display| |
+|**Interface control**|||
+|keyPressedLongClick|time in second the mouse have to be pressed for long click|>0|
+|**Player behavior**|||
+|turningSpeed|speed the player can be turned|>0|
+|creepSpeed|creep speed relative to walking|0 - 1|
+|keyRun1|Key that has to be pressed for running|ASCII Key code|
+|keyRun2|Key that has to be pressed for running|ASCII Key code|
+|keyCreep1|Key that has to be pressed for creeping|ASCII Key code|
+|keyCreep2|Key that has to be pressed for creeping|ASCII Key code|
+|keyDoNotWakl|Key that has to be pressed for not moving|ASCII Key code|
+|**Camera Behavior**|||
+|cameraDistance|camera distance start position|>0|
+|cameraAngle|vertical camera angle start position|0-90|
+|cameraRotationSpeed|rotation speed on pressed mouse key|>0|
+|cameraZoomSpeed|zoom speed on mouse wheel|>0|
+|keyToggleCamera|toggle fixing camera in 3rd person view|ASCII Key code|
+|**chat behaviour**|||
+|stayInChat|Leave or stay in chat chat on Return|0 / 1|
+|chatPrefixWhisper| | |
+|chatPrefixLoud| | |
+|chatPrefixShout| | |
+|chatPrefixOoc| | |
+|chatPrefixEmotion| | |
+|chatPrefixParty| | |
+|chatPrefixIntroduce| | |
+|chatColorWhisper|color in chat|argb color|
+|chatColorLocal|color in chat|argb color|
+|chatColorLoud|color in chat|argb color|
+|chatColorShout|color in chat|argb color|
+|chatColorOoc|color in chat|argb color|
+|chatColorEmotion|color in chat|argb color|
+|chatColorInfo|color in chat|argb color|
+|chatColorParty|color in chat|argb color|
+|**state bars behaviour**|||
+|staminaBarPlus|color of stamina if positive|argb color|
+|staminaBarMinus|color of stamina if negative|argb color|
+|weightWarningLimit|limit from where the bar changes color.|0 - 1|
+|weightWarningColor|weight bar color if overloaded|argb color|
+|**name overlay behaviour**|||
+|nameOverlayNpcColor|color of NPC names|argb color|
+|nameOverlayMonsterColor|color of monster names|argb color|
+|nameOverlayOffenderColor|color of player who attecked you recently|argb color|
+|nameOverlayMurdererColor|color of player who killed you recently|argb color|
+|nameOverlayPetColor|color of pet names|argb color|
+|healthColorUnharmed|health text and bar color|argb color|
+|healthColorSlightlyWounded|health text and bar color|argb color|
+|healthColorWounded|health text and bar color|argb color|
+|healthColorBadlyWounded|health text and bar color|argb color|
+|healthColorNearDeath|health text and bar color|argb color|
+|healthColorDeath|health text and bar color|argb color|
+|characterStateColor|player state colors|argb color|
+|characterStateText|player state text for selection|default:\\ Friend\\ Ally\\ neutral\\ dubious\\ Outlaw\\ Enemy\\ Murder|
+==== Error handling ====
+Verify in the [[logfile|logfile]] if changes in the playerpreferences.json file were valid.\\
+Changes were valid with the following message:
+<code>PlayerPreferences loaded from file 'PlayerPreferences.json'.</code>
+In case of an error the message is:
+<code>...  not loaded. Most likely a JSON format issue.</code>
+Check whether the file is valid json format. Use e.g. the JSON extension of notepad++. Popular mistakes are:
+  *';' at the  line break
+  * missing line breaks
+  * parameter names not in "quotes" 
+
 

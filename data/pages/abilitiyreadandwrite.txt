@@ -1,0 +1,16 @@
+====== Read and Write ======
+The ability defines whether a character can read and write.
+
+**Your crosses here, please!**
+==== Not Available ====
+//Learning by heart is the nuts and bolts. I'm really good at it.//\\
+Letters are a mystery. You are illiterate and can not even read signposts or labels.
+==== Poor ====
+//E... En... Entrance!//\\
+You can read labels and signposts but neither parchments nor books. You cannot write.
+==== Good ====
+//I don't like blue fingers.//\\
+You can read everything and write labels and signposts.
+==== Excellent ====
+//Those with education//\\
+You can read and write everything.

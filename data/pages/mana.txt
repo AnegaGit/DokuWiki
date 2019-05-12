@@ -1,0 +1,13 @@
+====== Mana ======
+==== Character ====
+Mana of a character is defined by the attributes:
+^Attribute^Effect^Min^Max^Used nonlinear curve^
+|Essence|max Mana points|1.000|10.000|12|
+|Magic Awareness|recovery rate of Mana points|25/s|170/s|3|
+Mana points are recovered at any time depending on the global mana distribution.
+==== NPC ====
+The max mana of a NPC is defined by the mana level. The level is given in % of the base value.\\
+The base value should be about the lowest available mana of a character.
+
+The mana recovery rate is defined by the mana recovery level. The level is given in % of the base value.\\
+The base value should be about 70% of average value compared to a character. The mana distribution is not taken into consideration for NPC.

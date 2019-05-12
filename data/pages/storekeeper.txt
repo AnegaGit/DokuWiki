@@ -1,0 +1,17 @@
+====== Storekeeper ======
+The ability defines the total possible amount of storage slots over all deots and bags a character has. Piles of items such as 536 arrows in a singe storage slot count as one. The player is not able to purchase storage capacity exceeding the limit.\\
+The limits are 100, 300, 750, 3000 at the moment.
+
+**Dragons are known for theire	propensity to hoard.**
+==== Not Available ====
+//I do not need much.//\\
+The number of items your character can have is very limited. You will almost not be able to increase the size of the initial storage space.
+==== Poor ====
+//Order is half the life, searching remains.//\\
+Your character has a decent storage capacity. It should be sufficient for a normal live. You better throw away not needed items from time to time.
+==== Good ====
+//I'm not a compulsive hoarder!//\\
+It will take a long time before the character reaches its storage capacity.
+==== Excellent ====
+//It must be anywhere!//\\
+Your character can become a well - known merchant. The number of storage locations in its depots is huge.

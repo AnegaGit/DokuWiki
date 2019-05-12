@@ -1,0 +1,22 @@
+====== Game Master (GM) Log File ======
+GM actions with a higher potential for abuse and OOC complaints are logged on the server.
+
+File name: %USERPROFILE%\AppData\Local\Anega\YYYY-MM-dd_gmactions.log
+=== Columns ===
+  - Date/Time in UTC
+  - ID of GM player
+  - ID of targeted player (0 if not applicable)
+  - Log Text
+=== Logged actions ===
+  * GM uses player kill function
+  * GM killed a lot of NPC in relative short time
+  * GM pulled a lot of NPC in relative short time
+  * GM pulled a number of player in relative short time
+  * GM performs broadcast
+  * GM sent comment (identified by "-->")
+  * Player sent "/gm" message
+**Please note:**\\
+The purpose of the logs is to detect possible abuse and not to stop the use of the function.\\
+Please do not be deterred from using the features when the game situation requires it.
+
+A good idea is to write a short comment to the log file soon after.

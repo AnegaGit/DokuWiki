@@ -1,0 +1,26 @@
+====== Health ======
+==== Character ====
+Health of a character is defined by the attributes:
+^Attribute^Effect^Min^Max^Used nonlinear curve^
+|Constitution|max Health points|1.000|10.000|4|
+|Healthiness|recovery rate of Health points|16/s|100/s|10|
+Health points are recovered at any time.
+
+A character can receive critical wounds up to 90% of the total health. These recover only under certain conditions:
+  * Character is in a hospital.
+  * Character in under care of a healer.
+==== NPC ====
+The max health of a NPC is defined by the health level. The level is given in % of the base value.\\
+The base value should be about the lowest available health of a character.
+
+The health recovery rate is defined by the helath recovery level. The level is given in % of the base value.\\
+The base value should be an average value compared to a character.
+==== UI Health Display ====
+As long as the ability [[abilitiydiagnosis|Health Diagnosis]] is better than 'Not Available' the health of other character, monster and NPC's is shown in 6 steps:
+  * unharmed
+  * slightly wounded
+  * wounded
+  * badly wounded
+  * near death
+  * death
+Depending on [[abilitiydiagnosis|Health Diagnosis]] there are more detailed information available on close examination.

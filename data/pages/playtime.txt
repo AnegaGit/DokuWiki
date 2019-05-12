@@ -1,0 +1,11 @@
+====== Playtime ======
+Some functions depends on the time, a character is actively played.
+  * Experience, distributable for skills
+  * Attribute points
+
+A character collects playtime by actively participating in the game.\\
+Standing idle and doing nothing is considered inactive does not get any game time.
+
+Different activities extend the time to the next necessary activity (sorted descending by influence)
+  - Talking or perform an emotion
+  - Moving or turning

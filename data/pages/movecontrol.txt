@@ -1,0 +1,23 @@
+====== Moving a Character ======
+===== Walk and Run =====
+
+A character can be moved via the **WASD** keys or using the mouse.
+
+==== WASD ====
+The character walks always in its view direction **(WS**).\\
+It turns using the **AD** keys.
+==== Mouse ====
+By left clicking to any terrain position (including items and other character) the character takes the fastest way to reach the position and perform the standard action. It does not avoid monster or traps.\\
+Using the [[contextmenu|context menu]] the character can be sent the fastest way to reach the position of the selected item or character.
+
+Holding the left mouse key, the character turns and walks into that direction.
+==== Speed control ====
+Using the **Shift** keys, the character run as long as there is sufficient stamina.\\
+Using the **CTRL** (STRG) keys, the character walks with reduced speed.\\
+Using the **ALT** keys, the character stops walking.
+===== Camera position =====
+The camera is located in a 3rd person view behind the character per default.
+
+The camera position can be changes holding the mouse wheel pressed. The **Y** key or the middle mouse click toggles whether the changed position is persistent or not when releasing the mouse wheel.
+
+Rolling the mouse wheel, the distance of the camera is controlled. If the camera is too close to the character it switces into a 1st person zoom view.

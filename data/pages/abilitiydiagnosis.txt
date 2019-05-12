@@ -1,0 +1,22 @@
+====== Health Diagnosis ======
+The ability defines how exact a character can dedicate the health state of other persons.
+
+**The next please!**
+==== Not Available ====
+//He is still alive!//\\
+You can just tell if someone else is alive.
+==== Poor ====
+//So much blood, where does it all come from?//\\
+You can not recognize more than the obvious health state.
+These states are:
+  * unharmed
+  * slightly wounded
+  * wounded
+  * badly wounded
+  * near death
+==== Good ====
+//Be careful when they take the knife!//\\
+You can estimate the health status of each person examined relatively well.
+==== Excellent ====
+//Doctors are great as long as you don't need them.//\\
+You can see the state of health of each person being examined accurately.

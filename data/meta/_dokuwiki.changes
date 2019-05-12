@@ -1,18 +1,22 @@
-1543141152	::1	C	start	baylamon	created		328
-1543160239	::1	C	sidebar	baylamon	created		18
-1543160481	::1	E	sidebar	baylamon			24
-1543160718	::1	E	sidebar	baylamon			78
-1543162014	::1	C	nonlinearcurves	baylamon	created		219
-1543162263	::1	E	nonlinearcurves	baylamon			3
-1543855254	::1	C	playerpreferences	baylamon	created		312
-1543855446	::1	E	sidebar	baylamon			43
-1543857692	::1	C	logo	baylamon	created		55
-1543857923	::1	E	logo	baylamon			0
-1543858005	::1	E	sidebar	baylamon			16
-1543858043	::1	E	start	baylamon			-93
-1543858077	::1	E	logo	baylamon			93
-1544015990	::1	C	calendar	baylamon	created		743
-1544032351	::1	E	nonlinearcurves	baylamon			435
-1544038867	::1	E	nonlinearcurves	baylamon			37
-1544044804	::1	C	day	baylamon	created		398
-1544084696	::1	E	nonlinearcurves	baylamon			44
+1556367692	::1	E	gmactions				75
+1556368216	::1	C	gmpanel		created		622
+1556368284	::1	E	gmlog				56
+1556368490	::1	E	gmlog				69
+1556368554	::1	E	gmpanel				46
+1556370142	::1	E	gmactions				124
+1556370193	::1	E	gmlog				42
+1556479102	::1	E	playerpreferences		[Error handling] 		42
+1556479287	::1	E	gmactions				218
+1556479309	::1	E	gmactions				7
+1556781549	::1	E	gmactions				251
+1556781594	::1	E	key		[GM, Test and Debug] 		12
+1557236464	::1	C	license		created		1626
+1557236775	::1	E	license		[Basic License] 		-5
+1557250333	::1	E	license		[References] 		199
+1557250994	::1	E	license		[References] 		244
+1557251205	::1	E	license		[References] 		131
+1557252106	::1	E	license		[References] 		271
+1557253325	::1	E	sidebar				37
+1557254117	::1	E	license		[Used External License] 		84
+1557404888	::1	E	license		[Basic License] 		84
+1557405852	::1	E	license				455

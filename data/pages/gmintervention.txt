@@ -1,0 +1,12 @@
+====== Divine Interventions ======
+Core game manager are entitled to make changes to the settings of characters.//
+The changes do not require the consent of the player. Adjustments can be communicated to the player or activated without knowledge of the person concerned.//
+Adjustments must be documented in the GM Tool.
+===== Divine Punishment =====
+Violations of the Laws of the Game are preferable to answer with temporary or permanent restrictions on the attributes and abilities of the affected character.
+==== Examples ====
+The character loses abilities. It is e.g. no longer possible to adapt the displayed name or to build or change public buildings.
+
+The total skill cap of the character is reduced.
+
+The character continuously loses attributes. If no attributes can be reduced, the character dies (will be deleted) and can no longer be played.

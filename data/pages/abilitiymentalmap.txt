@@ -1,0 +1,19 @@
+====== Mental Map ======
+The ability defines how good a character can memorize a map.
+The mini map is controlled by the ability.
+
+**Lost in a maze?**
+==== Not Available ====
+//What you see is what you get.//\\
+You don't have a feeling for the area around yourself.
+==== Poor ====
+//Do not stalk from behind!//\\
+You feeling for the area around yourself is limited for the area in front of your eyes.
+==== Good ====
+//All around clear.//\\
+Your feeling for the area around yourself has a limited range.
+==== Excellent ====
+//Bird eyes view!//\\
+Your feeling for the area around yourself can be extended to a larger area.
+
+

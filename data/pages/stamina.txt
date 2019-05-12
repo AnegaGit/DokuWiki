@@ -1,0 +1,14 @@
+====== Stamina ======
+^Attribute^Effect^Used nonlinear curve^
+|Endurance|max Stamina points|4|
+|Fitness|recovery rate of Stamina points (alpha)|12|
+==== Process ====
+{{::stamina_process.png?nolink&600|}}
+|max|The attribute endurace defines the max possible stamina.|
+|A|While a character is running, stamina is consumed until it falls below 0.|
+|B|Once below 0 it drops to a minimum immediately.|
+|alpha|The attribute fitness defines the stamina recovery rate\\ Stamina is recovered at any time until max.|
+|C|While stamina is below 0, the character cannot run or perform a fast action.|
+|D|Once stamina abouve 0, running and fast actions are possible.|
+==== NPC ====
+Stamina is not applied to NPC. NPC have always the same speed.

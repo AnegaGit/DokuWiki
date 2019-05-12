@@ -1,0 +1,16 @@
+====== Voice control ======
+The ability defines the distance your character can be heard.
+
+**Say that again, please!**
+==== Not Available ====
+//Coughs ...//\\
+You are barely understandable. Most will think you are dumb.
+==== Poor ====
+//Louder!//\\
+You shouldn't try to speak to more people. And you better run instead call for help.
+==== Good ====
+//I understand.//\\
+You don't have any issues with communication.
+==== Excellent ====
+//Be quite!//\\
+Your voice carries far.

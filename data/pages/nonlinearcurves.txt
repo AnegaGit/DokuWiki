@@ -5,3 +5,4 @@
 |7 = medium fast start :{{:nonlinear7.png?200|}}|8 = slight fast start :{{:nonlinear8.png?200|}}|9 = strong fast start :{{:nonlinear9.png?200|}}|
 |10 = medium slow start :{{:nonlinear10.png?200|}}|11 = slight slow start :{{:nonlinear11.png?200|}}|12 = strong slow start :{{:nonlinear12.png?200|}}|
 |13 = sinus :{{:nonlinear13.png?200|}}|14 = sinus :{{:nonlinear14.png?200|}}|15 = yearly flood :{{:nonlinear15.png?200|}}|
+|16 = falling:{{:nonlinear16.png?200|}}|17 = half high :{{:nonlinear17.png?200|}}|18 = falling slow start :{{:nonlinear18.png?200|}}|

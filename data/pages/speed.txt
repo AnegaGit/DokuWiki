@@ -1,0 +1,11 @@
+====== Speed ======
+==== Character ====
+The walking and running speed a character moves is defined by the attribute agility:
+^Attribute^Effect^Min^Max^Used nonlinear curve^
+|Agility|walking speed|2|6|9|
+|Agility|running speed|6|10|12|
+A character cannot run for eternity. The duration a character can run is controlled by the stamina.
+==== NPC ====
+An NPC has a single speed only.
+It is defined by the speed level. The level is given in % of the base value.\\
+The base value should be the average walking speed of a character.

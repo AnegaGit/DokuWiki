@@ -1,0 +1,38 @@
+====== Game Master (GM) Actions ======
+Depending on the GM level a GM can perform the following actions:
+^Trigger^Action^Limitation^Remark^
+|Key G|[[gmpanel|GM Panel]]|every GM|Open/close the panel |
+|Key K and F2|Suicide|every GM|There is no further confirmation asked!\\ the character dies instantly.|
+|Context menu|Teleport to target|every GM|Number of actions not limited.|
+|Context menu|Teleport to item, NPC or player|every GM|Number of actions not limited.|
+|Context menu and F2|Teleport NPC to GM|every GM|Number of actions not limited.|
+|Context menu and F2|Teleport player to GM (pull)|GM settings|Number of actions limited.|
+|Context menu and F2|Kill monster|GM settings|Number of actions not limited.|
+|Context menu and F2|Kill player|GM settings|Number of actions limited.|
+|Character examination|See attributes & abilities|GM settings| |
+|Character examination|Reduce attributes & abilities|GM settings|Player can increase attributes and abilities always, as long as the max value was not reached|
+|Character examination|Advanced information|GM settings| |
+|GM Panel|Broadcast|GM settings| |
+|GM Panel|Message to player|every GM| |
+|Chat "/gm"|Message to GM and [[gmlog|GM log file]]|Every player|Message is sent to every active GM\\ and saved in the log|
+|**Abilities**||||
+| |Night Vision|every GM|Can see in darkness|
+| |Read and Write|every GM|Can read and write everything|
+| |Unlimited health|GM settings|Health regenerates instantly\\Suicide and single hit kill still possible.|
+| |Unlimited mana|GM settings|Mana regenerates instantly|
+| |Unlimited stamina|GM settings|Stamina regenerates instantly|
+
+Some actions are logged in the [[gmlog|GM log file]].
+==== GM adds to context menu ====
+{{:gm_context_menu.jpg?nolink&100 |}}
+1. ItemTeleport to target\\
+2. Teleport to NPC or player\\
+3. Pull player to GM\\
+4. Kill player or NPC
+
+Details see also: [[contextmenu|context menu]]
+==== Secured actions ====
+For some actions an additional key is required to avoid an accidentially call.\\
+1. Suicide\\
+2. Kill player or NPC\\
+3. Pull player or NPC

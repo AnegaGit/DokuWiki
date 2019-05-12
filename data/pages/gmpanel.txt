@@ -1,0 +1,16 @@
+====== Game Master (GM) Panel======
+The panel is toggled by Key **G**.
+
+Depending on the GM level a GM can perform the following actions:
+^Action^Limitation^Remark^
+^Register Misc^^^
+|Invisibility|GM settings|GM become invisible for other character|
+|Message to [[gmlog|GM log file]]|every GM| |
+^Register Player^^^
+|Broadcast|GM settings|Player recognize GM message.|
+|Message to player|every GM|Player recognize GM message.|
+|Teleport GM to player|every GM|Number of actions not limited.|
+|Teleport player to GM (pull)|GM settings|Number of actions limited.|
+|Kill player|GM settings|Number of actions limited.|
+|Advanced information|GM settings| |
+^Register Warp^^^
