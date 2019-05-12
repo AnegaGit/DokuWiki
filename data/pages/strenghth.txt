@@ -5,6 +5,9 @@ The weight of an item in the game may differ from the weight of the item in real
 How much a character can carry is defined by an attribute. Some items and events influences the weight.
 ^Attribute^Effect^Min^Max^Used nonlinear curve^
 |Strength|Weight, the character can carry|12.000|120.000|3|
+|Strength|Max distance an item can be thrown|20|30|4|
 
 A speed of a character depends on how much a character carry. The nonlinear curve 18 is used.\\
 A character cannot move if the weight of all items exceed the weight, the character can carry.
+
+The item weight influences the distance it can be thrown. The nonlinear curve 19 is used.

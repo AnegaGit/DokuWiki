@@ -17,3 +17,7 @@
 [[nonlinearcurves|Nonlinear Dependencies]]\\
 [[playerpreferences|Player Preferences]]\\
 [[license|Licenses and Refereces]]
+
+== Attention ==
+All numbers are indicative. The actual values used may differ.\\
+See in code: GlobalVar.cs
