@@ -1,0 +1,12 @@
+===== Idea =====
+  * The game is a platform for free role play in an open world medieval fantasy environment.
+  * The main focus is player role plays with player.
+===== Core Slogan =====
+“**We play together, not against each other.**”
+
+===== Limitations =====
+  * The characters are not bright heros with unlimited powers. Every character has advantages and serious disadvatages.
+===== Design Principles =====
+  * The game is not about numbers. The player rarely will see numbers describing the character.\\ For example: The health is not 96%, the character simply is unharmed.
+  * Disadvantages are not just role played and can simply be ignored. Disadvantages are anchored in the engine.\\ For example: If the character can not read signposts, the player too can not.
+  * Dependencies are not linear.\\ For example, the additional damage gained through skill gain is not constant over the skill range.

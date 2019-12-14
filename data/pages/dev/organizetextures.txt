@@ -1,0 +1,47 @@
+====== Organize Textures (Tool) ======
+===== General =====
+The tool replaces texture files in the assets with respective files from any other folder.
+
+Texture files are detected by file names. The following names are used:
+  * *_diffuse.png
+  * *_normal.png
+  * *_metall.png
+The size of the source textures has to be 2048x2048. The tool can reduce the size to:
+  * 256x256
+  * 512x512
+  * 1024x1024
+
+The tool has to be called when Anega is not running.
+===== User Interface =====
+{{ :dev:anegaorgaizetextures.jpg?direct&600 |}}
+**Source Directory**\\
+In this directory and it's subdirectories the original 2048x2048 textures are stored.
+
+**Target Size**\\
+The size of the target textures.
+
+**Target Directory**\\
+This is the Unity asset folder. The directory and it's subdirectories conatain the used textures.
+
+**Compare target with source**\\
+For each texture in the target a respective file in the source is searched.\\
+The name of the file must be identical to the name of the file . There must be exact one file in the source.
+
+**Replace target with source**\\
+Creates for each combination found in //Compare target with source// a texture in the size, defined in //Target Size// and replace the existing texture.
+===== Error messages =====
+//No source file found for filename => not used!//\\
+The compare function found no file with the same name in the source.
+
+//Multiple source files (x) found for filename => not used!//\\
+The compare function found more than one file with the same name in the source. The file is excluded from further prozessing.
+
+//ERROR: Source or target directory not selected//\\
+The compare function cannot be processed since a required input is missing. Please select source and target directory first.
+
+//ERROR:Target image size not selected!//\\
+The replace function cannot be processed since a required input is missing. Please define the wanted texture size first.
+
+//ERROR: There are no files to replace!//\\
+The replace function cannot be processed. There are nofiles for replacing known.\\
+Either the compare function has not been called or it has not found any match.

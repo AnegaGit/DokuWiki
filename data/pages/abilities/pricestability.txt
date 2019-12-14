@@ -1,0 +1,23 @@
+====== Bestprice ======
+The ability defines how often a NPC offers a character the best possible price.\\
+If not the best price is offered the NPC will sell items to you for an up to 20% higher price.\\
+Selling items to an NPC you get up to 20% less money.\\
+About every 5:15 hours the influence of the ability is recalculated.
+
+**Now is the best time to be rich, and the best time to be poor.**
+==== Not Available ====
+//The few copper do nothing.//\\
+Stationary merchants interest you little. These will very rarely sell you things at the lowest price or buy things at the highest price.\\
+The possibility to have the best price is 5%.
+==== Poor ====
+//Seize the opportunity if it offers itself.//\\
+From time to time stationary merchants offer you the best price. It is up to you to recognize and use the opportunity.\\
+The possibility to have the best price is 21%.
+==== Good ====
+//Do not buy tomorrow what you can buy today.//\\
+You are rarely forced to buy or sell immediately. If the price is better tomorrow, you can wait. Stationary merchants often offer you the best price.\\
+The possibility to have the best price is 45%.
+==== Excellent ====
+//Time is money.//\\
+Traceable prices are particularly important to you as a professional merchant. Whether you are buying or selling, stationary merchants will almost always offer you the best possible price.\\
+The possibility to have the best price is 95%.

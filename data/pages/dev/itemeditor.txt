@@ -1,0 +1,18 @@
+====== Item Editor ======
+Location: Inspector at World==>Editor\\
+Section: Manage Assets ==> Item Lists
+
+===== Functions =====
+|Count Items|Result shown in debug area|
+|Save Item List|Create a csv list with some parameter of all items|
+|Load Item List|Load a csv list with exact the same structure as above\\ Applies changed variables|
+
+===== Item List =====
+%USERPROFILE%\AppData\Local\Anega\ItemList.csv\\
+The file can ne edited using EXCEL. Column order and column content must not be changed.
+
+The list contains some parameter. The item itself has more parameter one cannot change with this tool.\\
+It is not possible to delete or create items using this tool.
+
+When loaded, only the lines in the file that are necessary for changes need to be loaded.\\
+The first 2 lines (header) are essentially and must be provided.

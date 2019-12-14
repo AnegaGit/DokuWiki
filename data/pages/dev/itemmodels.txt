@@ -1,0 +1,35 @@
+====== Item Models ======
+===== Naming =====
+ItemName_specialProperty_specialProperty\\
+Properties such as resolution, texture type ... are divided by '_'.\\
+The item name or property itself uses CamelCase.\\
+Prefab and directory name shall start with capital letter.
+
+**Example:** DragonBreastPlate_normal_512
+===== Directory structure =====
+Item models should be organized in the assets as follow:
+
+//Models==>Items==>ThisItemName//\\
+The folder contains the model, textures and materials.
+
+//Prefabs==>Elements==>Group==>ThisItemName//\\
+The useable prefab.\\
+Groups are:
+  * Tools
+  * Weapon
+  * Clothing
+===== Prefab =====
+The prefab based on an empty game object at position 0;0;0 with no rotation and scale. This is also the position where the prefab is hold in hand.
+
+The prefab contains the model as //Model//. The model itself can contain multiple components.
+
+The direction is as follow:\\
+{{ :prefab_direction.jpg?nolink&400 |}}\\
+^center|position of the hand| |
+^blue|upward|if item in hand\\ arrow points to the elbow|
+^red|foreward|if item in hand\\ arrow points foreward|
+^green|rightward|if the item lay on ground\\ this is upward|
+
+The model has to be scaled.
+
+The model needs a collider. Mesh collider shall be used.

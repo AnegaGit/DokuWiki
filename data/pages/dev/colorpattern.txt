@@ -1,0 +1,9 @@
+====== Color Pattern ======
+===== Leather =====
+^Color^Application^Value(hex)^Example^
+|bright| |#E7BF98|<color /#E7BF98>_ _ _ _ _ _ _ _ _</color>|
+|golden|soft only|#D6A24D|<color /#D6A24D>_ _ _ _ _ _ _ _ _</color>|
+|medium| |#BC713D|<color /#BC713D>_ _ _ _ _ _ _ _ _</color>|
+|dark| |#883900|<color /#883900>_ _ _ _ _ _ _ _ _</color>|
+|very dark| |#69402C|<color /#69402C>_ _ _ _ _ _ _ _ _</color>|
+|black| |#29282C|<color /#29282C>_ _ _ _ _ _ _ _ _</color>|

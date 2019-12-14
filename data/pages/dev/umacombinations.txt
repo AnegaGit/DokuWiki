@@ -1,0 +1,281 @@
+====== UMA Combinations ======
+This article describes the available slots and overlays and possible combinations.
+===== Modular Garnment =====
+A modular recipe have to have a single base element.\\
+Further partitions can be used with a single element.
+
+Each element have to have a single overlay.\\
+Optional add overlays can be used together with a basic overlay.
+
+Basically the color of every overlay can be altered. Gray overlays are designed for adapting the color.
+===== Chest Wardrobe =====
+A single pice of chest armor can be used only.
+  * bodyArmor
+  * robe
+  * shirt
+  * hauberk
+==== BodyArmor ====
+Trousers are visible.\\
+2/3 arms, allow long gloves.
+
+^slot^overlay^remark^grey^
+|BaseSlot|BodyArmorChainmail| | |
+|:::|BodyArmorLeatherAdvanced| | |
+|:::|BodyArmorLeather| | |
+|SimpleHarnish|SimpleHarnish| | |
+^ModularBodyArmor^^^^
+|Gambeson|base|base element|x|
+|:::|belt|optional add| |
+|Breastplate|bright/dark/parade|torso element| |
+|Cuirass|bright/dark/parade|torso element| |
+|Pauldron|(Pauldron)bright/dark/parade|shoulder element| |
+|:::|leather|optional add| |
+|PauldronBreaker|(Pauldron)bright/dark/parade|shoulder element| |
+|ArmPipe|(ArmPipe)bright/dark/parade|arm element| |
+|ArmPipeHalf|(ArmPipe)bright/dark/parade|arm element| |
+Any other bodyArmor, dress, shirt or hauberk can be used as base element as well.
+
+In case of a hauberk as base element with a torso element apply the following MeshHide:
+  * Hauberk_MeshHide_4Breastplate
+  * Hauberk_MeshHide_4Cuirass
+==== Robes ====
+Dress and robes. The base slot is a robe.\\
+Leg wardrobe is not visible.\\
+Boots are partially hidden.\\
+Long arms may partially hidden under long gloves.
+
+^slot^overlay^remark^grey^
+|BaseSlot|RobeSimpleFine|base element|x|
+|:::|RobeSimpleRough|base element|x|
+|:::|RobeSimpleMage|base element|x|
+|:::|RobeSkapulier|optional add|x|
+|:::|RobeBelt|optional add belt| |
+|:::|RobeRope|optional add belt|x|
+|:::|RobeSash|optional add belt|x|
+|:::|RobeApplications...|optional add application||
+|:::|...FileLinen|application base element|x|
+|:::|...Buttons|appliation add element|x|
+|:::|...Chain|:::|x|
+|:::|...Leafs|:::|x|
+|Dress|DressFineLinen|base element|x|
+|:::|DressBelt|optional add belt| |
+|:::|DressApplications...|optional add application||
+|:::|...FineLinen|application base element|x|
+|:::|...Chain|application detail element| |
+|:::|...Lace|:::|x|
+|:::|DressApron|optional add apron|x|
+
+==== Hauberk ====
+Short dress down to upper legs.\\
+Leg wardrobe is partially visible. MeshHide assets may be needed.\\
+Long arms may partially hidden under long gloves.
+
+^slot^overlay^remark^grey^
+|BaseSlot|Chainmail|base element| |
+|:::|FineLinen|:::|x|
+|:::|RoughLinen|:::|x|
+|:::|Belt|belt element| |
+|:::|BeltLarge|:::| |
+|:::|ShoulderChainmail|shoulder element| |
+|:::|ShoulderLeather|:::| |
+|:::|Application|||
+|:::|...FineLinen|application base element|x|
+|:::|...Buttons|application add element|x|
+|:::|...Chain|:::|x|
+|:::|...Leafs|:::|x|
+|:::|SmithApron|apron element| |
+==== Shirt ====
+Trousers are visible.\\
+Long arms may partially hidden under long gloves.
+
+^slot^overlay^remark^grey^
+|BaseSlot|BaseFineLinen|base element|x|
+|:::|BaseRoughLinen|:::|x|
+|:::|ButtonUpFineLinen|:::|x|
+|:::|LacedFineLinen|:::|x|
+|:::|LacedRoughLinen|:::|x|
+|:::|Buttons|button element for buttonUp|x|
+|:::|LacedLacing|lacing element for laced|x|
+|:::|PatchElbow|patch element| |
+|:::|Patch1|:::|x|
+|:::|Patch2|:::|x|
+|:::|Patch3|:::|x|
+|:::|Patch4|:::|x|
+|:::|Patch5|:::|x|
+|:::|Patch6|:::|x|
+|:::|ShirtLeatherOrnated|base element| |
+|Collar|CollarsFineLinen|collar element|x|
+|:::|CollarsFur|:::| |
+|:::|CollarsSoftLeather|:::|x|
+|Scarf|CollarsFineLinen|collar element|x|
+|:::|CollarsFur|:::| |
+|:::|CollarsSoftLeather|:::|x|
+Collar and scarf can be used with any dress, hauberk or shirt.
+===== Footwear =====
+A single piece can be used only:
+  * Boots
+  * Shoes
+==== Boots ====
+Trousers are partially hidden in boots.\\
+Boots are partially hidden by a dress.\\
+Feet are compleatly covered.
+
+^slot^overlay^remark^grey^
+|BaseSlot|BaseHardLeather|base element|x|
+|:::|BaseSoftLeather|:::|x|
+|:::|Buckled...|||
+|:::|...HardLeather|base element|x|
+|:::|...SoftLeather|:::|x|
+|:::|...Clasp|mandatory for buckled base elements| |
+|:::|Laced...|||
+|:::|...HardLeather|base element|x|
+|:::|...SoftLeather|:::|x|
+|:::|...Holes|mandatory for laced base elements| |
+|:::|...Lacing|mandatory for laced base elements|x|
+|:::|BaseSole|mandatory for all boots| |
+|:::|SteelCap bright/dark|optional add| |
+|:::|BootsSteelBase bright/dark/parade|base element| |
+|:::|BootsSteelBase leather|optional add for BootsSteelBase| |
+|Cuff|CuffFur|cuff element| |
+|:::|CuffHardLeather|:::|x|
+|:::|CuffSoftLeather|:::|x|
+|CalfPipe|BootsSteelAdd bright/dark/parade|calf element| |
+|CalfPipeHalf|BootsSteelAdd bright/dark/parade|calf element| |
+|CalfPipeSpike|BootsSteelAdd bright/dark/parade|calf element| |
+|FootProtection|BootsSteelAdd bright/dark/parade|foot element| |
+^Single^^^^
+|SteelBoots|SteelBoots|single| |
+All base boots except BootsSteelBase require the sole element as last overlay in the slot.\\
+FootProtection can be added to shoes too.
+==== Shoes ====
+No overlapping with trousers.\\
+Feet are compleatly covered.
+
+^slot^overlay^remark^grey^
+|BaseSlot|ShoesBuckled...|||
+|:::|...HardLeather|base element|x|
+|:::|...HardLeather|base element|x|
+|:::|...Clasp|mandatoy add for buckled| |
+|:::|ShoesLaced...|||
+|:::|...HardLeather|base element|x|
+|:::|...HardLeather|base element|x|
+|:::|...Holes|mandatoy add for buckled| |
+|:::|...Lacing|mandatoy add for buckled|x|
+|:::|ShoesSole|mandatory for all shoes| |
+|:::|ShoesSteelCap Bright/Dark|optional add| |
+ShoesSole must be the last overlay for the slot.
+===== Legwear =====
+A single piece can be used only:
+  * LegArmor
+  * Trousers
+Legwear is not visible under a dress.\\
+Legwear requires a MeshHide asset under a hauberk.
+==== LegArmor ====
+Ends where boots begin.
+
+^slot^overlay^remark^grey^
+|BaseSlot|LegArmorLeatherAdvanced| | |
+|:::|LegArmorLeather| | |
+|:::|LegCushion|base element|x|
+|SteelLeggins|SteelLegginsSimple| | |
+^Modular leg armor^^^^
+|KneeKap|LegArmorKneeUpper bright/dark/parade|knee element| |
+|KneeKapSpike|:::|knee element| |
+|UpperLegPipe|:::|upper leg element| |
+|UpperLegPipeHalf|:::|upperleg element| |
+|LegArmorBelt|LegArmorBeltLower bright/dark/parade|belt element| |
+|LowerLegPipe|:::|lower leg element| |
+|LowerLegPipeHalf|:::|lower leg element| |
+Modular leg armor can be used with any legArmor baseSlot or trousers baseSlot.
+==== Trousers ====
+Trousers are partially covered by boots. MeshHide assets may be required.
+
+^slot^overlay^remark^grey^
+|BaseSlot|TrousersLeather| | |
+|:::|trouserBelt...|||
+|:::|...FineLinen|base element belt|x|
+|:::|...RoughLinen|base element belt|x|
+|:::|...Belt|belt element| |
+|:::|trousersLaced...|||
+|:::|...()|base element laced|x|
+|:::|...Rope|belt element|x|
+|:::|trousersGaitors|gaitor element  1 of 2|x|
+|:::|trousersGaitorsLacing|gaitor element 2 of 2|x|
+|:::|KneeLeather|patch element| |
+|:::|Patch1|:::|x|
+|:::|Patch2|:::|x|
+|:::|Patch3|:::|x|
+|:::|Patch4|:::|x|
+|:::|SittingLeather|:::| |
+|Knickerbocker|KnickerbockerLower|part 1 of 3|x|
+|:::|KnickerbockerUpper|part 2 of 3|x|
+|:::|KnickerbockerRope|part 3 of 3|x|
+|Adds||||
+|Backskin|TrousersAdds|add to base or knickerbocker| |
+|TrousersBeltBag|:::|:::| |
+|TrousersBeltPouch|:::|:::| |
+===== Handwear =====
+A single piece can be used only:
+  * Gloves
+  * GlovesLong
+==== Gloves ====
+No overlapping with any arm garment.\\
+Hands are completely covered.
+
+^slot^overlay^remark^grey^
+|BaseSlot|GlovesFineLinen|base element|x|
+|:::|GlovesHardLeather|:::|x|
+|:::|GlovesSoftLeather|:::|x|
+==== GlovesLong ====
+Lower arm garment is covered. MeshHide assets may be required.\\
+Hands are completely covered.
+
+^slot^overlay^remark^grey^
+|BaseSlot|GlovesLongFineLinen|base element|x|
+|:::|GlovesLongHardLeather|:::|x|
+|:::|GlovesLongSoftLeather|:::|x|
+|:::|GlovesLongFingerArmor bright/dark/parade|optional add| |
+|:::|GlovesLongForearmPipe bright/dark/parade|optional add| |
+|:::|GlovesLongArmored bright/dark/parade|optional add| |
+|ForearmWide|bright/dark/parade|forearm element | |
+|GlovesLongGauntlet|GlovesLongGauntletHardLeather|:::|x|
+|:::|GlovesLongGauntletSoftLeather|:::|x|
+|GauntletSteelSimple|GauntletSteelSimple|single element | |
+
+===== Headgear =====
+==== Helmet ====
+The hair is completely covered and not visible.
+
+^slot^overlay^remark^grey^
+|BaseSlot|HelmetChainmail| | |
+|:::|HelmetLeather| | |
+^Modular helmet^^^^
+|HelmetBand|bright/dark/parade|base element| |
+|:::|leatherNeck|optional add| |
+|HelmetCockscomb|bright/dark/parade|base element| |
+|:::|leatherNeck|optional add| |
+|HelmetRound|bright/dark/parade|base element| |
+|:::|leatherNeck|optional add| |
+|HelmetNeckProtection|HelmetAttachments bright/dark/parade|border element| |
+|:::|AttachmentsLeatherNeck|optional add| |
+|HelmetWideBorder|HelmetAttachments bright/dark/parade|border element| |
+|HelmetMouthGrid|HelmetMouthProtection bright/dark/parade|mouth element| |
+|HelmetMouthProtection|HelmetMouthProtection bright/dark/parade|mouth element| |
+|HelmetNoseProtection|HelmetAttachments bright/dark/parade|nose element| |
+==== Hats ====
+The hair require MeshHide assets.
+
+^slot^overlay^remark^grey^
+|HatRound|HatsLeather|base element| |
+|:::|HatsLinen|base element|x|
+|:::|HatsBand|optional add|x|
+|:::|HatsRope|optional add|x|
+|:::|HatSteelBright|base element| |
+|:::|HatSteelDark|base element| |
+|HatZylinder|Leather|base element| |
+|:::|HatsLinen|base element|x|
+|:::|HatsBand|optional add|x|
+|:::|HatsRope|optional add|x|
+|HatWitch|HatWitchBase|base element|x|
+|:::|HatWitchBand|optional add|x|
+|:::|HatWitchRope|optional add|x|

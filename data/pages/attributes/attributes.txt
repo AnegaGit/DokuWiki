@@ -1,0 +1,29 @@
+====== Attributes ======
+Attributes influence basic character parameter.
+^Attribute^Effect^Used nonlinear curve^
+|Constitution|max [[health|Health points]]|4|
+|Healthiness|recovery rate of [[health|Health points]]|10|
+|Essence|max [[mana|Mana points]]|12|
+|Magic Awareness|recovery rate of [[mana|Mana points]]|3|
+|Endurance|max [[stamina|Stamina points]]|4|
+|Fitness|recovery rate of [[stamina|Stamina points]]|12|
+|[[strenghth|Strength]]|Weight, the character can carry|2|
+|Dexterity|quality of crafted items||
+|Agility|[[attributes:speed|moving speed]]|9,12|
+|Intelligence|learning speed||
+|[[attributes:perception|Perception]]|detection range and capability to find hidden items|8, 12|
+|[[attributes:luck|Luck]]|probability of extraordinary results|24, 25|
+Every attribute has a range of 0-20.
+
+A new character starts with 90 attribute points in total. With play time more attribute points can be distributed. Eventually the total sum of all attribute points for a character is 120 (10 each).
+===== Combined Attribute =====
+The attributes strength, dexterity, agility and perception are combined in different variations for the execution of actions.
+
+For example the damage a mace swinger dealt is influenced as follow:
+^ ^share^example character skill^total^
+|strength|4|16|64|
+|dexterity|2|12|24|
+|agility|1|6|6|
+|perception|0|9|0|
+^total^7^ ^94^
+The combined attribute is 94/7=13.

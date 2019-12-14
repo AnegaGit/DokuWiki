@@ -1,0 +1,7 @@
+====== Active Play Time ======
+Rewards like skill gain or attribute changes depends on active play time.
+
+Just log in and do nothing will not be added to the active play time.
+
+**Be Aware!**\\
+Using a BOT to move a character or let a character talk will be punished by banning the player without a second chance.

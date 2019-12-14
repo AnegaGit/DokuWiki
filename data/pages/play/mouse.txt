@@ -1,0 +1,14 @@
+====== Mouse Control ======
+See also [[play:key|control keys]].
+==== Movement ====
+^Key^Action^Effect^
+|left|click on item or person|select|
+|left|click on not selectable position|Move to position|
+|left|hold|Follow mouse|
+|right|click on item or person|[[contextmenu|Open the context menu]]|
+|middle wheel|hold|camera angle and altitude|
+|middle wheel|scroll|camera distance|
+|middle wheel|click|toggle camera behind player or not|
+==== Drag&Drop ====
+Move items from one bag to another or into the equipment.
+|Shift|Split stacks|

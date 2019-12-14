@@ -1,0 +1,27 @@
+====== Luck and Chances ======
+==== Character ====
+The attribute luck influences a number of random effects and alters the skill relevant base value.
+
+Luck can work in both directions.
+
+Luck influences the following activities, though sometimes only in homeopathic doses:
+  * Damage, dealt with a weapon 
+  * Parry
+  * Damage, adsorbed by an armor
+
+
+===== Priciple =====
+The priciple is shown as an example for a character with luck 15 and the following weapon:
+
+The Sword of Chaos
+  * luck portion: 0.4 (40%)
+  * best luck: 2
+{{ :luck_process.png?nolink&400 |}}
+30% (15 of 20 from luck portion) are good luck, 10% (5 of 20) are bad luck.\\
+The best luck of 2 allows a damage twice as high as normal. Best luck does not affect the bad luck.
+
+In our example 1 out of 10 attacks 'fail' with lower damage and 3 out of 10 attacks are critical hits with up to twice the normal damage.
+
+Items with values of 10 and above for best luck are not really rare.
+==== NPC ====
+Luck is not applied for NPCs.

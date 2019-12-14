@@ -1,0 +1,32 @@
+====== Items ======
+===== Quality =====
+The quality influences the result once the item is used.\\
+The exact quality is not shown. The following wording is used (ascending):
+  - trash
+  - bad
+  - poor
+  - average
+  - above average
+  - good
+  - exceptional 
+  - superb
+  - exquisite
+  - perfect
+Items with higher quality costs more. See [[play:npctrade|NPC trade]]
+===== Durability =====
+Items can lose durability when used. If an item lose durability is a random decision and depends on an item parameter.\\
+It is possible a brand new item breaks after a few uses as well as the item remains forever.\\
+The player is informed if an item lose durability for the last n steps. The number of warnings before the item breaks can be defined in the [[internal:playerpreferences|player preferences]].\\
+The exact durability is not shown. The following wording is used (ascending):
+  - decaying
+  - ramshackly
+  - damaged
+  - normal
+  - stable
+  - new
+  - brand-new
+Items with higher durability costs more. See [[play:npctrade|NPC trade]]
+===== Decay =====
+Items that are placed on the ground decay after some time. The time is different for each item and also has a random component.
+
+4 to 10 minutes are common.

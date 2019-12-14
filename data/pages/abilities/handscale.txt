@@ -1,0 +1,22 @@
+====== Hand Scale ======
+The ability defines how good a character can identify the weight of items.
+Tooltips and weight scales are controlled by the ability. The weight or capability to carry weight is not influenced.
+
+**Sometimes you don't realize the weight of a burden you've been carrying until you feel the weight of its release.**
+==== Not Available ====
+//If it is big, it must be heavy.//\\
+Somehow you have no feeling for weights at all. Larger items probably weigh more.\\
+You will be surprised again and again if you can not lift your bag anymore. You can roughly estimate in which third the total weight of your equipment is located.
+==== Poor ====
+//Simplicity is an exact between too heavy and too light//\\
+You have an idea of what weighs things.\\
+You can also estimate the weight of your bag, though not very exactly. You can roughly estimate in which sixth the total weight of your equipment is located.
+==== Good ====
+//This is exact one kilo, more or less.//\\
+You know the weight of objects. But not more accurate than a single number.\\
+The weight of your bag you can estimate with +-10% accuracy.
+==== Excellent ====
+//This stone bag weighs two grams too little!//\\
+It seems like you have a natural scale. You can determine the weight of objects and your bag exactly.
+
+

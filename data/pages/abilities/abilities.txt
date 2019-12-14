@@ -1,0 +1,24 @@
+====== Abilities ======
+Every character has different abilities.
+
+Abilities are defined at character creation and must not be changed later.
+
+Each ability can have one of the following values:
+  * 0 = Not available
+  * 1 = Poor
+  * 2 = Good
+  * 3 = Excellent
+
+The total sum of all abilities of a char has to be a defined value.
+There must be a number of not available as well as a number of excellent abilities.
+
+===== List of abilities =====
+  * [[abilitiyinnerclock|Inner Clock]]
+  * [[abilitiycompass|Compass]]
+  * [[abilitiymentalmap|Mental Map]]
+  * [[abilitiyreadandwrite|Read and Write]]
+  * [[abilitiyvoicecontrol|Voice Control]]
+  * [[abilitiydiagnosis|Health Diagnosis]]
+  * [[storekeeper|Storekeeper]]
+  * [[handscale|Hand Scale]]
+  * [[abilities:pricestability|Bestprice]]

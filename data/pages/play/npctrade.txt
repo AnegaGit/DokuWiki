@@ -1,0 +1,12 @@
+====== NPC Trading ======
+NPC offers items in various qualities and durabilities.
+
+NPC buy items.
+
+The item price depends on a number of factors.\\
+Basically, an NPC buys an item for about 10% of the price that it offers the same item. The price gap can be greater if the character can not afford the best price. See the Ability [[abilities:pricestability|Best Price]].
+
+Items with longer durability offer better prices. A brand new item costs or brings twice the coins compared to an item of medium durability. An item without durability just 8%. The [[internal:nonlinearcurves|nonlinear curve]] is number 22.
+
+Items with better quality get better prices. A perfect item costs or brings you 10 times more than a medium quality item. The [[internal:nonlinearcurves|nonlinear curve]] is number 23.
+

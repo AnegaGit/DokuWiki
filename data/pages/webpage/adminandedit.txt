@@ -1,0 +1,12 @@
+====== Webpage Edit and Admin ======
+The webpage based on a Joomla template from artisteer.
+
+[[http://www.artisteer.com/?p=help_joomla#joomla6|Joomla help from the provider]]
+===== Add News =====
+  - Create new //Content=>Article// (//Inhalt=>Beitrag//)
+  - Set //Category// = News
+  - Set //Options=>Creation Date// = Display
+  - Edit article and save
+  - Go //Menu=>Main Menu => Latest News//
+  - Remove current article
+  - Add new created article 

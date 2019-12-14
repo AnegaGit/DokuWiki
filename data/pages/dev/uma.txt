@@ -1,0 +1,30 @@
+====== Unity Multipurpose Avatar (UMA) ======
+===== Basics =====
+Anaga is using UMA2 for all garments.
+
+A piece of garment is defined by a UMA recipe.
+
+A recipe contains of at least one slot. A slot is a skinned mesh.
+
+A slot has as at least one overlay assigned. An overlay is a collection of textures and can be compared with a material.
+
+A recipe is assigned to a wardrobe slot.
+
+A recipe can contain mesh hide assets. They define which parts of slots used together shall be hidden.
+===== Limitations =====
+Anega is using a diffuse, normal and metallic texture for each overlay.\\
+All textures are 512x512.
+
+Anega is using for the respective equipment slots the following wardrobe slots only:
+  * feet 
+  * legs
+  * chest
+  * hands
+  * helmet
+
+Modular armory usually is provided with 3 different designs (overlays).
+  * Bright (bright light steel)
+  * Dark (dull dark steel)
+  * Parade (bright dark steel with golden applications)
+===== Combinations =====
+See [[dev:umacombinations|UMA Combinations]]

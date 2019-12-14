@@ -1,0 +1,92 @@
+====== Player Preferences ======
+Player preferences are strored in a json parameter file %USERPROFILE%\AppData\Local\Anega\PlayerPreferences.json.
+
+If the file doesn't exists, default parameter are used.
+
+Be careful editing the file. It can be loaded only, if the format is a valid json.\\
+Variables that should not be changed do not need to be present in the file.\\
+Variables starting with '#' are comments only. You can add own comments.\\
+Boolean values: 0= false, 1= true.\\
+Colors must be in rgba float notation (0.0=0, 1.0=255): <code>{"r": 1.0,"g": 0.35,"b": 0.0,"a": 1.0}</code>
+
+^Parameter^Meaning^Possible values^
+^**System behaviour**^^^
+|logLevel| Defines which messages are written to the [[logfile|logfile]]| Position in string:\\ Error\\ Warnings\\ Information\\ Extended\\ Chat|
+|keyPressedLongClick|time in second the mouse have to be pressed for long click|>0|
+^**GM control**^^^
+|overlayGmNameAdd|Name prefix used for player GM in the name display| |
+^**Special keys**^^^
+|keyReleaseAction|Key that has to be hold down to confirm special actions|ASCII Key code|
+|keyCancelAction|Key that has to be pressed down to abort actions|ASCII Key code|
+|keyClosestMonster|Key that has to be pressed down to select and attack closest monster|ASCII Key code|
+^**Player behavior**^^^
+|turningSpeed|speed the player can be turned|>0|
+|creepSpeed|creep speed relative to walking|0 - 1|
+|keyRun1|Key that has to be hold down for running|ASCII Key code|
+|keyRun2|Key that has to be hold down for running|ASCII Key code|
+|keyCreep1|Key that has to be hold down for creeping|ASCII Key code|
+|keyCreep2|Key that has to be hold down for creeping|ASCII Key code|
+|keyDoNotWalk|Key that has to be hold down for not moving|ASCII Key code|
+^**Display Behavior**^^^
+|framesUntilFade|frames until a temporary hint fades|>0|
+|maxBlood|max amount of blood dropped when a character or NPC takes damage\\ The amount displayed depends on the damage suffered and is between 1 and this limit.|1-60|
+|myBloodColor|color of the blood your character drop|argb color|
+|otherBloodColor|color of the blood other chracters drop|argb color|
+^**Camera Behavior**^^^
+|cameraDistance|camera distance start position|>0|
+|cameraAngle|vertical camera angle start position|0-90|
+|cameraRotationSpeed|rotation speed on pressed mouse key|>0|
+|cameraZoomSpeed|zoom speed on mouse wheel|>0|
+|keyToggleCamera|toggle fixing camera in 3rd person view|ASCII Key code|
+^**Chat behaviour**^^^
+|stayInChat|Leave or stay in chat chat on Return|0 / 1|
+|chatPrefixWhisper| | |
+|chatPrefixLoud| | |
+|chatPrefixShout| | |
+|chatPrefixOoc| | |
+|chatPrefixEmotion| | |
+|chatPrefixParty| | |
+|chatPrefixIntroduce| | |
+|chatColorWhisper|color in chat|argb color|
+|chatColorLocal|color in chat|argb color|
+|chatColorLoud|color in chat|argb color|
+|chatColorShout|color in chat|argb color|
+|chatColorOoc|color in chat|argb color|
+|chatColorEmotion|color in chat|argb color|
+|chatColorInfo|color in chat|argb color|
+|chatColorParty|color in chat|argb color|
+^**State bars behaviour**^^^
+|staminaBarPlus|color of stamina if positive|argb color|
+|staminaBarMinus|color of stamina if negative|argb color|
+|weightWarningLimit|limit from where the bar changes color.|0 - 1|
+|weightWarningColor|weight bar color if overloaded|argb color|
+^**Name overlay behaviour**^^^
+|nameOverlayNpcColor|color of NPC names|argb color|
+|nameOverlayMonsterColor|color of monster names|argb color|
+|nameOverlayOffenderColor|color of player who attecked you recently|argb color|
+|nameOverlayMurdererColor|color of player who killed you recently|argb color|
+|nameOverlayPetColor|color of pet names|argb color|
+|healthColorUnharmed|health text and bar color|argb color|
+|healthColorSlightlyWounded|health text and bar color|argb color|
+|healthColorWounded|health text and bar color|argb color|
+|healthColorBadlyWounded|health text and bar color|argb color|
+|healthColorNearDeath|health text and bar color|argb color|
+|healthColorDeath|health text and bar color|argb color|
+|characterStateColor|player state colors|argb color|
+|characterStateText|player state text for selection|default:\\ Friend\\ Ally\\ neutral\\ dubious\\ Outlaw\\ Enemy\\ Murder|
+^**Warnings**^^^
+|warningDurabilityLow|warning if durability of an item falls below that level or lower|0-100|
+
+
+==== Error handling ====
+Verify in the [[logfile|logfile]] if changes in the playerpreferences.json file were valid.\\
+Changes were valid with the following message:
+<code>PlayerPreferences loaded from file 'PlayerPreferences.json'.</code>
+In case of an error the message is:
+<code>...  not loaded. Most likely a JSON format issue.</code>
+Check whether the file is valid json format. Use e.g. the JSON extension of notepad++. Popular mistakes are:
+  *';' at the  line break
+  * missing line breaks
+  * parameter names not in "quotes" 
+
+

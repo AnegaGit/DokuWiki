@@ -1,0 +1,68 @@
+====== Skills ======
+===== General =====
+To learn a skill a character has to perform an action, related to this skill. To learn mining you have to work in a mine.
+
+  * It is not possible to use experience from an action for any not performed skill.
+  * The range of every skill is 0-100.
+  * Learning higher skill levels requires more effort.
+  * The total skill levels are limited.
+
+The possible skill gain depends on the [[misc:activeplaytime|active play time]]. Yo do not learn more when you grind a skill without interruption compared to another character who role play and perform the skill from time to time.
+===== Skill Gain =====
+==== Calculation ====
+As long as the player actively takes part in the game, skill time is collected.
+
+If the character performs any skill related activity, the effective skill time is calculated as follow:\\
+  - Calculate a factor (0-1) depending on the difference of the the current skill and the necessary skill for the action (e.g. level of the fought monster, level of the produced item). Within a range of about -10 to +2 difference, the value is 1. The used [[internal:nonlinearcurves|nonlinear dependency]] is number 20.\\
+  - Calculate a factor (0..1..n) depending on the relative skill time with an SQRT function.\\
+  - The action skill time is multiplied by both factors to calculate the effective skill time.\\
+  - The necessary skill time for the current skill level is calculated using a skill related [[internal:nonlinearcurves|nonlinear dependency]]. The default is number 21 but each skill can have a separate.\\
+  - The relation fo the effective skill time and the necessary skill time defines the learned experience.\\
+  - The learned experience can never be more than 0.9 times the experience needed for a skill step. It is not possible to step up 2 skills with a single action.
+===== Level =====
+The exact skill level is not shown. The following wording is used in ascending order:
+  - noob
+  - beginner
+  - apprentice
+  - assistant
+  - journeyman 
+  - practitioner
+  - adept
+  - authority
+  - expert
+  - master
+  - grand master
+
+===== Skill Level Limitation =====
+The player has to concentrate to some skills. A skill cap prevents a character to become a master of all trades. A Jack of all trades with a decent level in all skills is possible.
+
+Skill point summary is calculated as 1+2+..+n where n is the current skill level.
+^level^summary^
+|1|1|
+|2|3|
+|3|6|
+|10|55|
+|50|1275|
+|70|2485|
+|100|5050|
+|n|(1+n)*n/2|
+The summary of all skill points is limited in a way a character could reach level 62 (2000 summary points) in each skill or concentrate to some prefered skills.
+
+Skills are grouped as well. Each group has a separate skill gap. A player can reach level 70 (2500 summary points) in each skill or concentrate to a selected sill to master and reach a lower level for the other skills.\\
+For example the fighting skills are in one group. So a character cannot become a master of all fighting styles.
+
+===== Consequences =====
+Having a lot of unused skill time can lead to a multiplication of the action skill effect.\\
+Continously performing skill actions lead to very small action effects.\\
+==> RolePlay time is not wasted time.
+
+If the action is far below the level of the character, there is no skill gain.\\
+If the action is far abouve the level of the character, the actin effect becomes very small.\\
+==> Concentrate to actions, related to your skill
+
+You cannot become a master in all crafts or skills, necessery to reach a target.\\
+Skilling everything at once slows down mastering a certain skill.\\
+==> Concentrate on your strength and work together with other characters who have other strength.
+
+
+

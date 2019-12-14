@@ -1,8 +1,0 @@
-====== Luck and Chances ======
-==== Character ====
-The attribute luck influences a number of random effects and alters the skill relevat base value.
-^Attribute^Effect^Range^Used nonlinear curve^
-|Luck|Chance for critical hit|30%|1|
-|Luck|Chance for blocking|25%|7|
-==== NPC ====
-Luck is not applied for NPCs.

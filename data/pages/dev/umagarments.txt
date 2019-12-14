@@ -1,0 +1,329 @@
+====== Available Garment ======
+Tables contain femal names only.\
+^slot^overlay^
+|replace last 'F' by 'M' for male|replace 'F_' by 'M_' for male|
+==== BodyArmor  Basic ====
+=== BodyArmorChainmailCuirassDark ===
+|BasicBodyArmorF|BodyArmorChainmailF_Overlay|
+|CuirassF|CuirassDarkF_Overlay|
+=== BodyArmorChainmail ===
+|BasicBodyArmorF|BodyArmorChainmailF_Overlay|
+=== BodyArmorLeatherAdvanced ===
+|BasicBodyArmorF|BodyArmorLeatherAdvancedF_Overlay|
+=== BodyArmorLeather ===
+|BasicBodyArmorF|BodyArmorLeatherF_Overlay|
+=== BreastplateArmPipeHalfPauldronBright ===
+|GambesonF|GambesonF_Overlay|
+|:::|GambesonFasteningF_Overlay|
+|BreastplateF|BreastplateBrightF_Overlay|
+|ArmPipeHalfF|ArmPipeBrightF_Overlay|
+|PauldronF|PauldronBrightF_Overlay|
+|:::|PauldronPartLeatherF_Overlay|
+=== BreastplateDark ===
+|GambesonF|GambesonF_Overlay|
+|:::|GambesonFasteningF_Overlay|
+|BreastplateF|BreastplateDarkF_Overlay|
+=== BreastplateParade ===
+|GambesonF|GambesonF_Overlay|
+|:::|GambesonFasteningF_Overlay|
+|BreastplateF|BreastplateParadeF_Overlay|
+=== GambesonCuirassBright ===
+|GambesonF|GambesonF_Overlay|
+|CuirassF|CuirassBrightF_Overlay|
+=== Gambeson ===
+|GambesonF|GambesonF_Overlay|
+=== GambesonMaxDark ===
+|GambesonF|GambesonF_Overlay|
+|CuirassF|CuirassDarkF_Overlay|
+|ArmPipeF|ArmPipeDarkF_Overlay|
+|PauldronF|PauldronDarkF_Overlay|
+=== SimpleHarnish ===
+|SimpleHarnishF|SimpleHarnishF_Overlay|
+==== Boots  Basic ====
+=== BootsArmored ===
+|BasicBootsF|BootsBaseHardLeatherF_Overlay|
+|:::|BootsSteelCapDarkF_Overlay|
+|:::|BootsBaseSoleM_Overlay|
+|CalfPipeHalfF|BootsSteelAddsDarkF_Overlay|
+=== BootsBuckled ===
+|BasicBootsF|BootsBuckledSoftLeatherF_Overlay|
+|:::|BootsBuckledClaspF_Overlay|
+|:::|BootsBaseSoleF_Overlay|
+=== BootsLacedHardBrown ===
+|BasicBootsF|BootsLacedHardLeatherF_Overlay|
+|:::|BootsLacedHolesF_Overlay|
+|:::|BootsLacedLacingF_Overlay|
+|:::|BootsSteelCapDarkF_Overlay|
+|:::|BootsBaseSoleF_Overlay|
+=== BootsLacedSoftYellow ===
+|BasicBootsF|BootsLacedSoftLeatherF_Overlay|
+|:::|BootsLacedHolesF_Overlay|
+|:::|BootsLacedLacingF_Overlay|
+|:::|BootsBaseSoleF_Overlay|
+=== BootsSteelBaseDark ===
+|BasicBootsF|BootsSteelBaseDarkF_Overlay|
+=== BootsSteelHalfProtectedBright ===
+|CalfPipeHalfF|BootsSteelAddsBrightF_Overlay|
+|BasicBootsF|BootsSteelBaseBrightF_Overlay|
+|:::|BootsSteelBaseLeatherF_Overlay|
+=== BootsSteelParade ===
+|CalfPipeSpikeF|BootsSteelAddsParadeF_Overlay|
+|BasicBootsF|BootsSteelBaseParadeF_Overlay|
+=== DiceShaker ===
+|BasicBootsF|BootsBaseHardLeatherF_Overlay|
+|:::|BootsBaseSoleF_Overlay|
+=== DiceShakerProtected ===
+|BasicBootsF|BootsBaseHardLeatherF_Overlay|
+|:::|BootsBaseSoleF_Overlay|
+|FootProtectionF|BootsSteelAddsBrightF_Overlay|
+=== Jackboots ===
+|BasicBootsF|BootsBaseHardLeatherF_Overlay|
+|:::|BootsBaseSoleF_Overlay|
+|BootsCuffF|BootsCuffHardLeathertF_Overlay|
+=== JackbootsProtected ===
+|BasicBootsF|BootsBaseHardLeatherF_Overlay|
+|:::|BootsBaseSoleF_Overlay|
+|BootsCuffF|BootsCuffHardLeathertF_Overlay|
+|FootProtectionF|BootsSteelAddsDarkF_Overlay|
+=== SteelBoots ===
+|SteelBootsF|SteelBootsF_Overlay|
+==== Dress  ====
+=== DressDarkRedLace ===
+|DressF|DressFineLinenF_Overlay|
+|:::|DressApplicationsFineLinenF_Overlay|
+|:::|DressApplicationsLaceF_Overlay|
+|:::|DressBeltF_Overlay|
+=== DressGreyApron ===
+|DressF|DressFineLinenF_Overlay|
+|:::|DressApplicationsFineLinenF_Overlay|
+|:::|DressApronFineLinenF_Overlay|
+==== Gloves  Basic ====
+=== GlovesLinenWhite ===
+|BasicGlovesF|GlovesFineLinenF_Overlay|
+=== GlovesSoftLeather ===
+|BasicGlovesF|GlovesSoftLeatherF_Overlay|
+=== GlovesSturdyLeather ===
+|BasicGlovesF|GlovesHardLeatherF_Overlay|
+==== Gloves Long  Basic ====
+=== GauntletSteelSimple ===
+|GauntletSteelSimpleF|GauntletSteelSimpleF_Overlay|
+=== GlovesLongArmored ===
+|BasicGlovesLongF|GlovesLongSoftLeatherF_Overlay|
+|:::|GlovesLongArmoredDarkF_Overlay|
+=== GlovesLongDarkArmor ===
+|BasicGlovesLongF|GlovesLongHardLeatherF_Overlay|
+|:::|GlovesLongFingerArmorDarkF_Overlay|
+|:::|GlovesLongForearmPipeDarkF_Overlay|
+=== GlovesLongParade ===
+|BasicGlovesLongF|GlovesLongSoftLeatherF_Overlay|
+|:::|GlovesLongForearmPipeParadeF_Overlay|
+|:::|GlovesLongFingerArmorParadeF_Overlay|
+|ForearmWideF|ForearmWideParadeF_Overlay|
+=== GlovesLongSoftLeather ===
+|BasicGlovesLongF|GlovesLongSoftLeatherF_Overlay|
+|GlovesLongGauntletF|GlovesLongGauntletSoftLeatherF_Overlay|
+=== GlovesLongSturdyLeather ===
+|BasicGlovesLongF|GlovesLongHardLeatherF_Overlay|
+=== GlovesLongSturdyLeatherGauntlet ===
+|BasicGlovesLongF|GlovesLongHardLeatherF_Overlay|
+|GlovesLongGauntletF|GlovesLongGauntletSoftLeatherF_Overlay|
+==== Hats  ====
+=== HatLeather ===
+|HatRoundF|HatsLeatherF_Overlay|
+|:::|HatsRopeF_Overlay|
+=== HatRoundRedRope ===
+|HatRoundF|HatsLinenF_Overlay|
+|:::|HatsRopeF_Overlay|
+=== HatSteelDark ===
+|HatRoundF|HatSteelDarkF_Overlay|
+=== HatWitchColorful ===
+|HatWitchF|HatWitchBaseF_Overlay|
+|:::|HatWitchRopeF_Overlay|
+=== HatZylinderBlack ===
+|HatZylinderF|HatsLinenF_Overlay|
+|:::|HatsRopeF_Overlay|
+==== Hauberk  Basic ====
+=== HauberkBreastplateBright ===
+|BasicHauberkF|HauberkBaseChainmailF_Overlay|
+|BreastplateF|BreastplateBrightF_Overlay|
+=== HauberkCuirass ===
+|BasicHauberkF|HauberkBaseChainmailF_Overlay|
+|CuirassF|CuirassParadeF_Overlay|
+=== Hauberk ===
+|BasicHauberkF|HauberkBaseChainmailF_Overlay|
+|:::|HauberkShoulderChainmailF_Overlay|
+|:::|HauberkBeltLargeF_Overlay|
+=== HauberkMaxParade ===
+|BasicHauberkF|HauberkBaseChainmailF_Overlay|
+|CuirassF|CuirassParadeF_Overlay|
+|ArmPipeF|ArmPipeParadeF_Overlay|
+|PauldronBreakerF|PauldronParadeF_Overlay|
+=== ShortDressGreyLeaf ===
+|BasicHauberkF|HauberkBaseFineLinenF_Overlay|
+|:::|HauberkApplicationFineLinenF_Overlay|
+|:::|HauberkApplicationLeafsF_Overlay|
+|:::|HauberkApplicationButtonsF_Overlay|
+=== SmithApron ===
+|BasicHauberkF|HauberkBaseRoughLinenF_Overlay|
+|:::|SmithApronF_Overlay|
+==== Helmet  Basic (open face) ====
+=== HelmetChainmail ===
+|BasicHelmetF|HelmetChainmailF_Overlay|
+=== HelmetCockscombBright ===
+|HelmetCockscombF|HelmetCockscombBrightF_Overlay|
+=== HelmetCockscombParadeNoseWideMouth ===
+|HelmetCockscombF|HelmetCockscombParadeF_Overlay|
+|HelmetNoseProtectionF|HelmetAttachmentsParadeF_Overlay|
+|HelmetMouthProtectionF|HelmetMouthProtectionParadeF_Overlay|
+=== HelmetLeather ===
+|BasicHelmetF|HelmetLeatherF_Overlay|
+=== HelmetRoundDarkNeckNose ===
+|HelmetRoundF|HelmetRoundDarkF_Overlay|
+|HelmetNeckProtectionF|HelmetAttachmentsDarkF_Overlay|
+|:::|HelmetAttachmentsLeatherNeckF_Overlay|
+|HelmetNoseProtectionF|HelmetAttachmentsDarkF_Overlay|
+=== HelmetRoundLeatherNeckMouthGrid ===
+|HelmetRoundF|HelmetRoundBrightF_Overlay|
+|:::|HelmetRoundLeatherNeckF_Overlay|
+|HelmetNeckProtectionF|HelmetAttachmentsBrightF_Overlay|
+|:::|HelmetAttachmentsLeatherNeckF_Overlay|
+|HelmetMouthGridF|HelmetMouthProtectionBrightF_Overlay|
+==== LegArmor  Basic ====
+=== LegArmorDark ===
+|BasicLegArmorF|LegCushionF_Overlay|
+|LowerLegPipeHalfF|LegArmorBeltLowerDarkF_Overlay|
+|KneeKapF|LegArmorKneeUpperDarkF_Overlay|
+=== LegArmorFullParade ===
+|BasicLegArmorF|LegCushionF_Overlay|
+|LowerLegPipeF|LegArmorBeltLowerParadeF_Overlay|
+|KneeKapSpikeF|LegArmorKneeUpperParadeF_Overlay|
+=== LegArmorLeatherAdvanced ===
+|BasicLegArmorF|LegArmorLeatherAdvancedF_Overlay|
+=== LegArmorLeather ===
+|BasicLegArmorF|LegArmorLeatherF_Overlay|
+=== LegArmorPartBright ===
+|BasicLegArmorF|LegCushionF_Overlay|
+|UpperLegPipeHalfF|LegArmorKneeUpperBrightF_Overlay|
+=== LegCushion ===
+|BasicLegArmorF|LegCushionF_Overlay|
+=== SteelLegginsSimple ===
+|SteelLegginsSimpleF|SteelLegginsSimpleF_Overlay|
+==== Robe  ====
+=== RobeGreenApplicationBelt ===
+|BasicRobeF|RobeSimpleFineF_Overlay|
+|:::|RobeApplicationsFineLinenF_Overlay|
+|:::|RobeApplicationsLeafsF_Overlay|
+|:::|RobeApplicationsButtonsF_Overlay|
+|:::|RobeBeltF_Overlay|
+=== RobeMageSashBlue ===
+|BasicRobeF|RobeSimpleMageF_Overlay|
+|:::|RobeApplicationsFineLinenF_Overlay|
+|:::|RobeApplicationsChainF_Overlay|
+|:::|RobeSashF_Overlay|
+=== RobeRawRope ===
+|BasicRobeF|RobeSimpleRoughF_Overlay|
+|:::|RobeRopeF_Overlay|
+=== RobeWhiteBlackBelt ===
+|BasicRobeF|RobeSimpleFineF_Overlay|
+|:::|RobeSkapulierF_Overlay|
+|:::|RobeBeltF_Overlay|
+==== Shirt  Basic ====
+=== ShirtButtonDownLinen ===
+|BasicShirtF|ShirtButtonUpFineLinenF_Overlay|
+|:::|ShirtButtonsF_Overlay|
+=== ShirtButtonDownWhite ===
+|BasicShirtF|ShirtButtonUpFineLinenF_Overlay|
+|:::|ShirtButtonsF_Overlay|
+|CollarF|CollarsFineLinenF_Overlay|
+=== ShirtLacedLinen ===
+|BasicShirtF|ShirtLacedFineLinenF_Overlay|
+|:::|ShirtLacedLacingF_Overlay|
+|:::|ShirtPatchesEllbowF_Overlay|
+=== ShirtLacedLinenPatched ===
+|BasicShirtF|ShirtLacedFineLinenF_Overlay|
+|:::|ShirtLacedLacingF_Overlay|
+|:::|ShirtPatches1F_Overlay|
+|:::|ShirtPatches2F_Overlay|
+|:::|ShirtPatches3F_Overlay|
+|:::|ShirtPatches4F_Overlay|
+|:::|ShirtPatches5F_Overlay|
+|:::|ShirtPatches6F_Overlay|
+=== ShirtLacedRough ===
+|BasicShirtF|ShirtLacedRoughLinenF_Overlay|
+|:::|ShirtLacedLacingF_Overlay|
+=== ShirtLeatherOrnated ===
+|BasicShirtF|ShirtLeatherOrnatedF_Overlay|
+==== Shoes  Basic ====
+=== SchoesLaceUpBlack ===
+|BasicShoesM|SchoesLacedHardLeatherM_Overlay|
+|:::|SchoesLacedHolesM_Overlay|
+|:::|SchoesLacedLacingM_Overlay|
+|:::|SchoesSoleM_Overlay|
+=== SchoesLaceUpBlackYellow ===
+|BasicShoesF|SchoesLacedHardLeatherF_Overlay|
+|:::|SchoesLacedMiddleSoftLeatherF_Overlay|
+|:::|SchoesLacedHolesF_Overlay|
+|:::|SchoesLacedLacingF_Overlay|
+|:::|SchoesSoleF_Overlay|
+=== SchoesLaceUpCapBrown ===
+|BasicShoesF|SchoesLacedHardLeatherF_Overlay|
+|:::|SchoesLacedHolesF_Overlay|
+|:::|SchoesLacedLacingF_Overlay|
+|:::|SchoesSteelCapBrightF_Overlay|
+|:::|SchoesSoleF_Overlay|
+=== ShoesProtected ===
+|BasicShoesF|SchoesLacedSoftLeatherF_Overlay|
+|:::|SchoesLacedHolesF_Overlay|
+|:::|SchoesLacedLacingF_Overlay|
+|FootProtectionF|BootsSteelAddsDarkF_Overlay|
+=== ShoesSideOverlaySoft ===
+|BasicShoesF|SchoesBuckledSoftLeatherF_Overlay|
+|:::|SchoesBuckledClaspF_Overlay|
+|:::|SchoesSoleF_Overlay|
+=== ShoesSideOverlaySturdy ===
+|BasicShoesF|SchoesBuckledHardLeatherF_Overlay|
+|:::|SchoesBuckledClaspF_Overlay|
+|:::|SchoesSoleF_Overlay|
+==== Trousers  Basic ====
+=== KnickerbockerBlack ===
+|KnickerbockerFabricF|KnickerbockerLowerF_Overlay|
+|:::|KnickerbockerUpperF_Overlay|
+|:::|KnickerbockerRopeF_Overlay|
+=== KnickerbockerGrey ===
+|KnickerbockerFabricF|KnickerbockerLowerF_Overlay|
+|:::|KnickerbockerUpperF_Overlay|
+|:::|KnickerbockerRopeF_Overlay|
+=== MinerTrousers ===
+|BasicTrousersF|trousersLacedF_Overlay|
+|:::|trousersLacedRopeF_Overlay|
+|:::|TrousersKneeLeatherF_Overlay|
+|BackskinF|trousersAddsF_Overlay|
+=== TrousersBeltBlue ===
+|BasicTrousersF|trousersBeltRoughLinenF_Overlay|
+|:::|trousersBeltBeltF_Overlay|
+=== TrousersBeltLinen ===
+|BasicTrousersF|trousersBeltFineLinenF_Overlay|
+|:::|trousersBeltBeltF_Overlay|
+=== TrousersBeltPatched ===
+|BasicTrousersF|trousersBeltFineLinenF_Overlay|
+|:::|trousersBeltBeltF_Overlay|
+|:::|TrousersPatch1F_Overlay|
+|:::|TrousersPatch2F_Overlay|
+|:::|TrousersPatch3F_Overlay|
+|:::|TrousersPatch4F_Overlay|
+|TrousersBeltPouchF|trousersAddsF_Overlay|
+=== TrousersBeltRed ===
+|BasicTrousersF|trousersBeltFineLinenF_Overlay|
+|:::|trousersBeltBeltF_Overlay|
+=== TrousersLeather ===
+|BasicTrousersF|TrousersLeatherF_Overlay|
+=== TrousersRough ===
+|BasicTrousersF|trousersBeltRoughLinenF_Overlay|
+=== TrousersTiedGreen ===
+|BasicTrousersF|trousersLacedF_Overlay|
+|:::|trousersLacedRopeF_Overlay|
+|:::|trousersGaitorsF_Overlay|
+|:::|trousersGaitorsLacingF_Overlay|
+|TrousersBeltBagF|trousersAddsF_Overlay|
+
+Total: 85 UMA garment pieces

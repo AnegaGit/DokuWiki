@@ -1,0 +1,9 @@
+====== Wepon and Tool Mastery ======
+A character must have a skill level that is sufficient to use a weapon, armor or tool.
+
+The following curve is used:
+{{ :nonlinear26.png?nolink&200 |}}
+The curve can be interpreted as follow:
+  * The skill of the character is 20 or more points below the level of the item:\\ ==> item not useable
+  * The skill of the character is exact the level of the item:\\ ==> 50% of the item capacity useable
+  * The skill of the character is 80 or more points abouve the level of the item:\\ ==> 100% of the item capacity useable\\ If the level of the item is above 20 the full capacity may never be useable.

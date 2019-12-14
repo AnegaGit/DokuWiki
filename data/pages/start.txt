@@ -1,4 +1,35 @@
-===== Idea =====
-  * The game is a platform for free role play in an open world medieval fantasy environment.
-  * The main focus is player role plays with player.
-  * The core slogan is: “We play together, not against each other.”
+====== Documentation ======
+{{ :smithy_-_logo.png |}}
+
+==== Sitemap ====
+[["/start?do=index"|Link to all pages]]
+
+=== Important pages ===
+== General ==
+[[general:start|Basic Idea]]\\
+[[general:logo|Logo]]
+
+== Play Game ==
+[[play:key|Control Keys]]\\
+[[play:mouse|Mouse]]\\
+[[play:movecontrol|Moving a Character]]\\
+[[play:npctrade|NPC Trading]]\\
+[[gm:gmactions|GM Actions]]
+
+== Character ==
+[[abilities:abilities|Abilities]]\\
+[[attributes:attributes|Attributes]]\\
+[[skill:skill|Skills]]\\
+[[fighting:fighting|Fighting]]
+
+== Items ==
+[[item:item|Quality, durability and decay]]
+
+== Internal ==
+[[internal:nonlinearcurves|Nonlinear Dependencies]]\\
+[[internal:playerpreferences|Player Preferences]]\\
+[[general:license|Licenses and Refereces]]
+
+== Attention ==
+All numbers are indicative. The actual values used may differ.\\
+See in code: GlobalVar.cs

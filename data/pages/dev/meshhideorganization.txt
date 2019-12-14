@@ -1,0 +1,39 @@
+====== MeshHide Organization (UMA Tool) ======
+A lot of recipes are using the same MeshHide assets to hide slots below. It might become tricky to keep on track what recipe has to hide which slot.\\
+This tool allows assigning MeshHide assets to recipes based on your private configuration.
+===== Structure =====
+{{ :dev:meshhideorganization_structure.jpg?direct&600 |}}
+A slot is a collection of all associated recipes. This could be e.g. boots.
+
+The MeshHide asset list contains all MeshHides used. In our example this are the lower part of the legs for the naked leg as well as any trousers that is crammed into the boot.
+
+The recipe list contains all recipes valid for the slot. In our example all boot recipes.
+===== Interface =====
+{{ :dev:meshhideorganization_interface.jpg?direct&600 |}}
+**Basic Slots:**\\
+The list of slots. Each slot has a list of MeshHide assets and recipes.
+
+**Remove Shown Mesh Hide Assets Only:**\\
+The tool removes in a first step all existing MeshHide assets from a recipe. If this toggle is selected, all MeshHide assets not used in any slot are not deleted.\\
+This allows creating for some special recipes local MeshHide assets.
+
+**Apply MeshHide assets:**\\
+  - Removes MeshHide assets from all recipes in the list. See Remove Shown Mesh Hide Assets Only also.
+  - Add all MeshHide assets assigned to a slot to each recipe in the slot.
+  - If a recipe is assigned to multiple basic slots, it receives all MeshHide assets from all basic slots together.
+
+**Resort list by names:**\\
+Resort the Basic Slots list by name.\\
+The lists of MeshHide assets and recipes are sorted as well.
+===== FAQ =====
+//How to add a MeshHide asset or recipe?//\\
+Increase the number of items on top of the list and drag your MeshHide asset or recipe into the field.
+===== Error Messages =====
+//There is a not assigned MeshHide asset in slot ‘xyz’!//\\
+There is an empty entry in a MeshHide asset list. Remove it using right mouse click.
+
+//There is a not assigned recipe in slot ‘xyz’!//\\
+There is an empty entry in a recipe list. Remove it using right mouse click.
+
+
+

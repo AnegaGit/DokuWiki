@@ -1,0 +1,40 @@
+====== Armor and Defense ======
+The defense of a character consists of three components.
+===== Dodge =====
+First, the character tries to evade an attack. If he succeeds, the attack will go away without damage.\\
+The probability of evasion depends on several factors:
+  * Skill Dodge
+  * Attribute combination for skill Dodge
+  * Attacking skill\\ It's more likely to doge a mace than a dagger.
+  * Carried load
+NPC have a dedicated probabitity to dodge.
+===== Parry =====
+If the character did not dodge it try to use equipment in hand to parry the attack.\\
+Used items are shields and most of the weapons have a parry capability as well. The character use the item in its left hand. If the left hand is empty or contains an item without parry capability, the item in the right hand is used. You cannot parry with bare hands.
+
+The probability of parrying depends on several factors:
+  * Skill Parry
+  * Attribute combination for skill Parry
+  * [[skill:weaponmastery|Level of the used item compared to the skill]]
+  * Quality of the used item
+  * Skill Luck and the luck properties related to parry of the used item
+NPC have a dedicated probability to parry.
+
+An attack is always completely parried.\\
+The item consumes some damage. The remaining damage is converted into stunning the defender.
+===== Armor =====
+If an attack is neither dodged nor parried, the armor will consume some damage.\\
+Different armor pieces cover different portion of the body. Only a single armor piece per attack is selected. If the selected area is not armored, all the damage is taken by the character.
+{{ :armor_distribution.jpg?nolink&400 |}}
+The amount of damage reduction depends on several factors:
+  * Skill needed for the used item
+  * Attribute combination for the used skill
+  * [[skill:weaponmastery|Level of the used item compared to the skill]]
+  * Skill Luck and the luck properties related to protection of the used item
+  * Difference in between the skill level of the attack and the used skill
+  * Attacking skill relation to the used skill
+  * Quality of the used item
+NPC have a dedicated range of consumed damage and take ito consideration additionally:
+  * Difference in between the skill level of the attack and the used skill
+  * Attacking skill relation to the used skill
+Any damage that is not adsorbed is taken by the character. Armor pieces may have a lower limit. The calculation will left this amount of damage no matter how high the protection is.

@@ -1,0 +1,23 @@
+====== Attacking, Usage of Weapons ======
+The character attacks always the currently selected target.
+
+The damage a character can deal with a weapon depends on a number of factors.
+  * Skill needed for the used weapon
+  * Attribute combination for the used weapon
+  * [[skill:weaponmastery|Level of the used weapon compared to the skill]]
+  * Skill Luck and the luck properties related to attack of the used weapon
+  * Quality of the weapon
+  * Obfuscation (+-25%)
+
+Once an attack is started, the target will be hit even if it left the attack range during the attack.
+===== Attack Frequency =====
+The attack frequency is given as textual description. The following texts are used in ascending order:
+  - every now and then
+  - few
+  - some
+  - significiant amount
+  - a lot
+  - many
+  - very many
+  - incredible many
+  - countless

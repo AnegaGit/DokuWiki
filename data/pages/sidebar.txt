@@ -1,22 +1,28 @@
 === Available Sections ===
 == General ==
-[[start|Basic Idea]]\\
-[[logo|Logo]]
+[[general:start|Basic Idea]]\\
+[[general:logo|Logo]]
 
 == Play Game ==
-[[key|Control Keys]]\\
-[[mouse|Mouse]]\\
-[[movecontrol|Moving a Character]]\\
-[[gmactions|GM actions]]
+[[play:key|Control Keys]]\\
+[[play:mouse|Mouse]]\\
+[[play:movecontrol|Moving a Character]]\\
+[[play:npctrade|NPC Trading]]\\
+[[gm:gmactions|GM Actions]]
 
 == Character ==
-[[attributes|Attributes]]\\
-[[abilities|Abilities]]
+[[abilities:abilities|Abilities]]\\
+[[attributes:attributes|Attributes]]\\
+[[skill:skill|Skills]]\\
+[[fighting:fighting|Fighting]]
+
+== Items ==
+[[item:item|Quality, durability and decay]]
 
 == Internal ==
-[[nonlinearcurves|Nonlinear Dependencies]]\\
-[[playerpreferences|Player Preferences]]\\
-[[license|Licenses and Refereces]]
+[[internal:nonlinearcurves|Nonlinear Dependencies]]\\
+[[internal:playerpreferences|Player Preferences]]\\
+[[general:license|Licenses and Refereces]]
 
 == Attention ==
 All numbers are indicative. The actual values used may differ.\\

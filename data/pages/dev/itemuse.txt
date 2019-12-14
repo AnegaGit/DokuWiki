@@ -1,0 +1,49 @@
+====== Item Usage ======
+The usage of the item is controlled in the item code itself.
+
+The item (UsableItem) contains the following functions:
+===== Server Side =====
+<code>//// Server side ////
+// can it be used as element
+public virtual bool CanUse(Player player,ElementSlot element){}
+
+// can it be picked into inventory
+public virtual bool CanPicked(ElementSlot element){}
+
+// can it be used as inventory item (also out of hand)
+public virtual bool CanUse(Player player,ItemSlot itemSlot){}
+
+// first use the item as element
+public virtual void Use(Player player, ElementSlot element){}
+
+// first use the item in inventory
+public virtual void Use(Player player, int container, int slot){}
+
+// repeated use the item as element
+public virtual void InUse(ElementSlot element) { }
+
+// repeated use the item in inventory
+public virtual void InUse(Player player, int container, int slot) { }
+
+// update cycle on server
+public virtual void UpdateServer(ElementSlot element) { }</code>
+===== Client Function =====
+<code>//// Client side ////
+// fist use as element
+public virtual void OnUsed(Player player, ElementSlot element) { }
+
+// first use from inventory
+public virtual void OnUsed(Player player, int container, int slot) { }
+
+// triggered action on element
+public virtual void OnUseAction(ElementSlot element, int data1, int data2, int data3) { }
+
+// triggered action in inventory
+public virtual void OnUseAction(Player player, int container, int slot, int action) { }
+
+// update cycle on client
+public virtual void UpdateClient(ElementSlot element) { }</code>
+===== Process from Inventory =====
+{{ :dev:inventoryuseprocess.jpg?direct&500 |Use item in inventory}}
+===== Process from Element =====
+{{ :dev:elementuseprocess.jpg?direct&500 |Use element (selected element)}} 

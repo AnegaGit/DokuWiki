@@ -1,0 +1,6 @@
+====== Log File ======
+File: %USERPROFILE%\AppData\Local\Anega\YYYY-MM-dd_anega.log
+
+The log file name remains the whole play session.
+
+The player can define in the [[internal:playerpreferences|player preferences]] what log level shall be stored.
