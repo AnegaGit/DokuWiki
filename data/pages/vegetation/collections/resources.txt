@@ -1,0 +1,22 @@
+====== Resources ======
+Resources can come in different qualities. From a better quality one may get more products.
+
+For the location where one can find this see: 
+  * [[vegetation:collections:trees|Trees]]
+  * [[vegetation:collections:mines|Mines]]
+
+^Name^Picture^Source^Skill^Properties^
+|Coal lump|{{ :vegetation:coallump.png |Coal lump}}|[[vegetation:collections:mines|Mines]]|mining| |
+|Diamond|{{ :vegetation:diamond.png |Diamond}}|[[vegetation:collections:mines|Mines]]|mining| |
+|Emerald|{{ :vegetation:emerald.png |Emerald}}|[[vegetation:collections:mines|Mines]]|mining| |
+|Iron ore|{{ :vegetation:i_oreiron.png |Iron ore}}|[[vegetation:collections:mines|Mines]]|mining| |
+|Ironwood branch|{{ :vegetation:ironwoodbranch.png |Ironwood branch}}|[[vegetation:pine|Pine]]\\ [[vegetation:oak|Oak]]|woodcutting| |
+|Ironwood log|{{ :vegetation:ironwoodlog.png |Ironwood log}}|[[vegetation:pine|Pine]]\\ [[vegetation:oak|Oak]]|woodcutting| |
+|Obsidian|{{ :vegetation:obsidian.png |Obsidian}}|[[vegetation:collections:mines|Mines]]|mining| |
+|Oak branch|{{ :vegetation:oakbranch.png |Oak branch}}|[[vegetation:oak|Oak]]|woodcutting| |
+|Oak log|{{ :vegetation:oaklog.png |Oak log}}|[[vegetation:oak|Oak]]|woodcutting| |
+|Pine branch|{{ :vegetation:pinebranch.png |Pine branch}}|[[vegetation:pine|Pine]]|woodcutting| |
+|Pine log|{{ :vegetation:pinelog.png |Pine log}}|[[vegetation:pine|Pine]]|woodcutting| |
+|Ruby|{{ :vegetation:ruby.png |Ruby}}|[[vegetation:collections:mines|Mines]]|mining| |
+|Sapphire|{{ :vegetation:sappire.png |Sapphire}}|[[vegetation:collections:mines|Mines]]|mining| |
+|Topaz|{{ :vegetation:topaz.png |Topaz}}|[[vegetation:collections:mines|Mines]]|mining| |

@@ -1,0 +1,15 @@
+====== Foxine ======
+It grows in swamps. 
+
+{{ vegetation:foxine.jpg?600 |Foxine}}
+The 5 phases and the 2 findings.
+===== Live Cycle =====
+The herb has 5 phases some and regrows about 5 times anew.
+^Phase^Finding^when collected^Average duration^After timeout^
+|young| ||2 days|normal|
+|normal|a few foxine leafs|old|7 days|bloomy|
+|bloomy| ||4 days|ripe|
+|ripe|a lot foxine seeds|old|7 days|old|
+|old| ||2 days|80% young\\ 20% dies|
+===== Trivia =====
+The plant is derived from lupine.

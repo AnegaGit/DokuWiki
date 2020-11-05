@@ -1,0 +1,12 @@
+====== Heyberry ======
+Heyberries grow in open areas and cannot be found in coniferous forests.
+
+{{ vegetation:heyberry.jpg |Heyberry}}
+All 4 phases and 2 findings.
+===== Live Cycle =====
+The herb lives very long and cycles through 4 phases.
+^Phase^Finding^when collected^Average duration^when timeout^
+|young|about 1 white carrot|dies|13 days|bloomy|
+|bloomy| ||4 days|ripe|
+|ripe|about 1 berry|95% old\\ 5% dies|4 days|old|
+|old| ||2 days|96% young\\ 4% dies|

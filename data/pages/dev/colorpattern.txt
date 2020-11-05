@@ -7,3 +7,64 @@
 |dark| |#883900|<color /#883900>_ _ _ _ _ _ _ _ _</color>|
 |very dark| |#69402C|<color /#69402C>_ _ _ _ _ _ _ _ _</color>|
 |black| |#29282C|<color /#29282C>_ _ _ _ _ _ _ _ _</color>|
+===== Skin =====
+To get the wanted skin color the following add color for UMA has to be used:
+^No^Add Value(hex)^Add Color^Skin Color^Race^
+|00|#FFFFFF|<color /#FFFFFF>_ _ _ _ _ _ _ _ _</color>|<color /#D9C2B6>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|01|#F1EEE2|<color /#F1EEE2>_ _ _ _ _ _ _ _ _</color>|<color /#CBB5A3>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|02|#EAEFF0|<color /#EAEFF0>_ _ _ _ _ _ _ _ _</color>|<color /#C8B7AD>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|03|#E2EAF0|<color /#E2EAF0>_ _ _ _ _ _ _ _ _</color>|<color /#C1B1AB>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|04|#E6E1DD|<color /#E6E1DD>_ _ _ _ _ _ _ _ _</color>|<color /#C3AEA1>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|05|#D4E1DD|<color /#D4E1DD>_ _ _ _ _ _ _ _ _</color>|<color /#B7ADA0>_ _ _ _ _ _ _ _ _</color>|HDEO|
+|06|#D4E1D1|<color /#D4E1D1>_ _ _ _ _ _ _ _ _</color>|<color /#B9B09D>_ _ _ _ _ _ _ _ _</color>|HDEO|
+|07|#D4CDD1|<color /#D4CDD1>_ _ _ _ _ _ _ _ _</color>|<color /#B29C96>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|08|#D4CDC2|<color /#D4CDC2>_ _ _ _ _ _ _ _ _</color>|<color /#B49E90>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|09|#BFCDC2|<color /#BFCDC2>_ _ _ _ _ _ _ _ _</color>|<color /#A59D8F>_ _ _ _ _ _ _ _ _</color>|HDEO|
+|10|#BFBDC2|<color /#BFBDC2>_ _ _ _ _ _ _ _ _</color>|<color /#A69490>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|11|#DAEEFF|<color /#DAEEFF>_ _ _ _ _ _ _ _ _</color>|<color /#ABA5A6>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|12|#C4D9E8|<color /#C4D9E8>_ _ _ _ _ _ _ _ _</color>|<color /#9D9999>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|13|#DBD8FC|<color /#DBD8FC>_ _ _ _ _ _ _ _ _</color>|<color /#AB98A4>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|14|#BFBDB4|<color /#BFBDB4>_ _ _ _ _ _ _ _ _</color>|<color /#A69388>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|15|#B2BDB4|<color /#B2BDB4>_ _ _ _ _ _ _ _ _</color>|<color /#9E968A>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|16|#B2B0B4|<color /#B2B0B4>_ _ _ _ _ _ _ _ _</color>|<color /#988785>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|17|#B2B09F|<color /#B2B09F>_ _ _ _ _ _ _ _ _</color>|<color /#978678>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|18|#A0B0B1|<color /#A0B0B1>_ _ _ _ _ _ _ _ _</color>|<color /#8C8782>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|19|#D7BB9B|<color /#D7BB9B>_ _ _ _ _ _ _ _ _</color>|<color /#AB8A75>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|20|#AB997F|<color /#AB997F>_ _ _ _ _ _ _ _ _</color>|<color /#8D7766>_ _ _ _ _ _ _ _ _</color>|HDE-|
+|21|#A18271|<color /#A18271>_ _ _ _ _ _ _ _ _</color>|<color /#876A5F>_ _ _ _ _ _ _ _ _</color>|H-E-|
+|22|#8C6D5B|<color /#8C6D5B>_ _ _ _ _ _ _ _ _</color>|<color /#7A5F53>_ _ _ _ _ _ _ _ _</color>|H-E-|
+|23|#6D5E5B|<color /#6D5E5B>_ _ _ _ _ _ _ _ _</color>|<color /#685855>_ _ _ _ _ _ _ _ _</color>|H-E-|
+|24|#6D523B|<color /#6D523B>_ _ _ _ _ _ _ _ _</color>|<color /#6B5447>_ _ _ _ _ _ _ _ _</color>|H-E-|
+|25|#4F423B|<color /#4F423B>_ _ _ _ _ _ _ _ _</color>|<color /#554945>_ _ _ _ _ _ _ _ _</color>|H---|
+|26|#423E3B|<color /#423E3B>_ _ _ _ _ _ _ _ _</color>|<color /#4C4645>_ _ _ _ _ _ _ _ _</color>|H---|
+|27|#3D2E22|<color /#3D2E22>_ _ _ _ _ _ _ _ _</color>|<color /#4B403A>_ _ _ _ _ _ _ _ _</color>|H---|
+|28|#281E14|<color /#281E14>_ _ _ _ _ _ _ _ _</color>|<color /#3C3631>_ _ _ _ _ _ _ _ _</color>|H---|
+|29|#1D1C1A|<color /#1D1C1A>_ _ _ _ _ _ _ _ _</color>|<color /#363534>_ _ _ _ _ _ _ _ _</color>|H---|
+|30|#CCEAD0|<color /#CCEAD0>_ _ _ _ _ _ _ _ _</color>|<color /#CBC0A0>_ _ _ _ _ _ _ _ _</color>|---O|
+|31|#A7D2AF|<color /#A7D2AF>_ _ _ _ _ _ _ _ _</color>|<color /#A4AA89>_ _ _ _ _ _ _ _ _</color>|---O|
+|32|#BBD1A4|<color /#BBD1A4>_ _ _ _ _ _ _ _ _</color>|<color /#A39974>_ _ _ _ _ _ _ _ _</color>|---O|
+|33|#A4BF78|<color /#A4BF78>_ _ _ _ _ _ _ _ _</color>|<color /#938E5E>_ _ _ _ _ _ _ _ _</color>|---O|
+|34|#8DCD9F|<color /#8DCD9F>_ _ _ _ _ _ _ _ _</color>|<color /#829672>_ _ _ _ _ _ _ _ _</color>|---O|
+|35|#80CB83|<color /#80CB83>_ _ _ _ _ _ _ _ _</color>|<color /#759262>_ _ _ _ _ _ _ _ _</color>|---O|
+|36|#80BB83|<color /#80BB83>_ _ _ _ _ _ _ _ _</color>|<color /#778A62>_ _ _ _ _ _ _ _ _</color>|---O|
+|37|#809D83|<color /#809D83>_ _ _ _ _ _ _ _ _</color>|<color /#757762>_ _ _ _ _ _ _ _ _</color>|---O|
+|38|#809D96|<color /#809D96>_ _ _ _ _ _ _ _ _</color>|<color /#77796C>_ _ _ _ _ _ _ _ _</color>|---O|
+|39|#939D80|<color /#939D80>_ _ _ _ _ _ _ _ _</color>|<color /#837861>_ _ _ _ _ _ _ _ _</color>|---O|
+|40|#6C9D84|<color /#6C9D84>_ _ _ _ _ _ _ _ _</color>|<color /#6A7964>_ _ _ _ _ _ _ _ _</color>|---O|
+|41|#6C896A|<color /#6C896A>_ _ _ _ _ _ _ _ _</color>|<color /#6C896A>_ _ _ _ _ _ _ _ _</color>|---O|
+|42|#6C8958|<color /#6C8958>_ _ _ _ _ _ _ _ _</color>|<color /#676A4B>_ _ _ _ _ _ _ _ _</color>|---O|
+|43|#6C8930|<color /#6C8930>_ _ _ _ _ _ _ _ _</color>|<color /#686C36>_ _ _ _ _ _ _ _ _</color>|---O|
+|44|#4D8930|<color /#4D8930>_ _ _ _ _ _ _ _ _</color>|<color /#506A36>_ _ _ _ _ _ _ _ _</color>|---O|
+|45|#328930|<color /#328930>_ _ _ _ _ _ _ _ _</color>|<color /#3C6A35>_ _ _ _ _ _ _ _ _</color>|---O|
+|46|#32895B|<color /#32895B>_ _ _ _ _ _ _ _ _</color>|<color /#3D6D4D>_ _ _ _ _ _ _ _ _</color>|---O|
+|47|#326F5B|<color /#326F5B>_ _ _ _ _ _ _ _ _</color>|<color /#3E5D4F>_ _ _ _ _ _ _ _ _</color>|---O|
+|48|#426731|<color /#426731>_ _ _ _ _ _ _ _ _</color>|<color /#4A5837>_ _ _ _ _ _ _ _ _</color>|---O|
+|49|#19AF14|<color /#19AF14>_ _ _ _ _ _ _ _ _</color>|<color /#297D26>_ _ _ _ _ _ _ _ _</color>|---O|
+|50|#198F1D|<color /#198F1D>_ _ _ _ _ _ _ _ _</color>|<color /#296D29>_ _ _ _ _ _ _ _ _</color>|---O|
+|51|#1E601D|<color /#1E601D>_ _ _ _ _ _ _ _ _</color>|<color /#2D522B>_ _ _ _ _ _ _ _ _</color>|---O|
+|52|#C7EEFD|<color /#C7EEFD>_ _ _ _ _ _ _ _ _</color>|<color /#B1B0A7>_ _ _ _ _ _ _ _ _</color>|--E-|
+|53|#B2D8FD|<color /#B2D8FD>_ _ _ _ _ _ _ _ _</color>|<color /#9F9DA3>_ _ _ _ _ _ _ _ _</color>|--E-|
+|54|#90B6D4|<color /#90B6D4>_ _ _ _ _ _ _ _ _</color>|<color /#858B8F>_ _ _ _ _ _ _ _ _</color>|--E-|
+|55|#8DA8B9|<color /#8DA8B9>_ _ _ _ _ _ _ _ _</color>|<color /#817F7D>_ _ _ _ _ _ _ _ _</color>|--E-|
+
+Race: HDEO = **H**uman,**D**warf,**E**lf,**O**rc

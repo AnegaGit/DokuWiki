@@ -1,0 +1,17 @@
+====== Wands ======
+Wands are not required to cast a spell, but they are certainly helpful.
+
+Every wands is assigned to a magic school.
+
+A magic wand increases the absolute amount of mana as well as the mana regeneration according to the related magic school skill of the caster. If the skill is far below or abouve what is necessary, the total mana and mana regeneration may even be restricted.
+
+The max effect of a wand may differ for max mana and mana regeneration. It is even possible one is higher while the other is reduced.
+
+The effect of a magic wand only begins with a certain delay and is lost immediately when the character drops it. So make sure that the character equips his wand early and does not change constantly.
+
+===== Known Wands =====
+^Name^Icon^Magic School^Effect Description (max)^Time to effect^User skill^
+|Wand of Drops|{{:item:wandofdrop.png|}} |Water Magic|2 x the total mana\\ 0.5 x mana regeneration|3 min|Don't know skill only|
+|Wand of Calm|{{:item:wandofcalm.png|}} |Air Magic|0.5 x total mana\\ 2 x mana regeneration|3 min|Don't know skill only|
+|Wand of Sparks|{{:item:wandofsparks.png|}} |Fire Magic|1.5 x total mana\\ 0.75 x mana regeneration|3 min|Don't know skill only|
+|Wand of Dust|{{:item:wandofdust.png|}} |Earth Magic|0.75 x total mana\\ 1.5 x mana regeneration|3 min|Don't know skill only|

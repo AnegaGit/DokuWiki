@@ -1,0 +1,14 @@
+====== Mines ======
+Coal, ore and gems can be found in mines.\\
+Most are underground mines and require advanced [[abilities:abilitiydarkvision|dark vision]] or light sources.
+
+There are a lot of different vein types and an advanced knowledge is necessary to know whether a vein is a bonanza or just a few lumps of ore.
+
+There are some general properties for most of the veins:
+  * As more resources a vein have, as lower is the required skill to work with.
+  * Rich veins have a much lower probability to get any extras.
+  * It takes more time to respawn as more resources a vein provides.
+===== Known Mines =====
+^Name^Location^Resources^Skill Level^Remarks^
+|[[area:mine01|Mine01]]|Mountain next to Main Town\\ Path starts near the castle.|Coal\\ Iron|Beginner|Rather low amount of resources.\\ Almost no extras such as gems.|
+The name of a mine can vary if player name it.

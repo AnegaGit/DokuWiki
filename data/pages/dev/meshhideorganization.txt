@@ -25,6 +25,16 @@ This allows creating for some special recipes local MeshHide assets.
 **Resort list by names:**\\
 Resort the Basic Slots list by name.\\
 The lists of MeshHide assets and recipes are sorted as well.
+
+**Documentation**\\
+Creates a DokuWiki ready documentation about all recipes, used slots and overlays. The text is copied direct into the clipboard and can be inserted into the documentation.
+
+**Verify if files _Recipe exists, that are not part of this list**\\
+Searc a given directory and name each file *_Recipe that has no reference in the MeshHide organization tool.\\
+The base path is hard coded and can be changed in c#:\\
+<code>string targetFilePath = "C:\\Daten\\Entwicklung\\UMA2 Test\\Assets\\UMAClothing";</code>
+
+
 ===== FAQ =====
 //How to add a MeshHide asset or recipe?//\\
 Increase the number of items on top of the list and drag your MeshHide asset or recipe into the field.

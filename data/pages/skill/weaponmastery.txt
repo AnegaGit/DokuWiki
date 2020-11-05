@@ -1,4 +1,4 @@
-====== Wepon and Tool Mastery ======
+====== Weapon, Spell and Tool Mastery ======
 A character must have a skill level that is sufficient to use a weapon, armor or tool.
 
 The following curve is used:

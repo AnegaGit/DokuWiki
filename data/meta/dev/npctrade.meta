@@ -1,0 +1,11 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1584959460;s:8:"modified";i:1585047876;}s:11:"last_change";a:8:{s:4:"date";i:1585047876;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:12:"dev:npctrade";s:4:"user";s:0:"";s:3:"sum";s:16:"[Apply to game] ";s:5:"extra";s:0:"";s:10:"sizechange";i:-254;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:18:"Organize NPC Trade";s:11:"description";a:2:{s:15:"tableofcontents";a:5:{i:0;a:4:{s:3:"hid";s:18:"organize_npc_trade";s:5:"title";s:18:"Organize NPC Trade";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:4:"data";s:5:"title";s:4:"Data";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:14:"load_base_data";s:5:"title";s:14:"Load base data";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:17:"edit_traded_items";s:5:"title";s:17:"Edit traded items";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:13:"apply_to_game";s:5:"title";s:13:"Apply to game";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:265:"Organize NPC Trade
+
+There is a separate tool for organizing the buy and sell list of an NPC.
+
+Anega_NPCMerchants
+
+Data
+
+The data are stored in the server based data base but not taken into consideration automatically.
+
+The following tables are part of the data set:";}s:8:"relation";a:2:{s:5:"media";a:1:{s:41:"dev:npc_merchant_organization_program.jpg";b:1;}s:10:"firstimage";s:41:"dev:npc_merchant_organization_program.jpg";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1584959460;s:8:"modified";i:1585047876;}s:11:"last_change";a:8:{s:4:"date";i:1585047876;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:12:"dev:npctrade";s:4:"user";s:0:"";s:3:"sum";s:16:"[Apply to game] ";s:5:"extra";s:0:"";s:10:"sizechange";i:-254;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

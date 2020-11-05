@@ -1,0 +1,20 @@
+====== Waterproof ======
+The ability defines how fast a character can walk on roads and pathes.\\
+Even if your character does not benefit from roads and pathes it will strongly prefer them on automated path finding.
+
+**Every road leads to More**
+==== Not Available ====
+//This is not natural!//\\
+Artificial ways are suspect to you. You even choose them preferentially, but you don't walk there so quickly.\\
+The speed on roads is down to 70%
+==== Poor ====
+//Where's the difference?//\\
+You get along on roads and paths just as quickly as in the forest or on a meadow.
+==== Good ====
+//Come on!//\\
+You will walk a little faster on roads and paths than anywhere else.\\
+The speed on roads is up to 120%.
+==== Excellent ====
+//Don't be so slow.//\\
+If there is a road or a path, you will reach your destination much faster.\\
+The speed on roads is up to 160%.

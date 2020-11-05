@@ -1,0 +1,7 @@
+====== Warnings ======
+There are some warnings from Unity or c# that cannot be avoided.
+
+//**BoxColliders does not support negative scale or size.**//\\
+If a character carry an item with a box collider in the left hand, the message is possible.\\
+The **LeftHandEquipment** position has a y scale of -1 to turn sideway directed items like shields outward while forward directed items like swords point forward on right and left position.\\
+The box collider seems to be working properly on left hand on tests.

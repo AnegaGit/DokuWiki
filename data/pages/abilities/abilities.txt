@@ -1,7 +1,7 @@
 ====== Abilities ======
 Every character has different abilities.
 
-Abilities are defined at character creation and must not be changed later.
+Abilities are defined at character creation and can be changed later by GM only.
 
 Each ability can have one of the following values:
   * 0 = Not available
@@ -9,12 +9,17 @@ Each ability can have one of the following values:
   * 2 = Good
   * 3 = Excellent
 
-The total sum of all abilities of a char has to be a defined value.
-There must be a number of not available as well as a number of excellent abilities.
+The total sum of all abilities of a char has to be a defined value (18).\\
+There must be a number (1) of not available as well as a number (1) of excellent abilities.
+
+While changing th abilities one must first remove one ability value. One cannot add a value if the sum of all abilities exceed the limit or if the sum is equal the limit but the number of Not available and Excellent abilities is not given.
+
+It may be necessary to remove more than one ability value first to achieve the desired result. It may even be necessary to stay with a smaller number of total ability values for a while to do a larger rebuild.
 
 ===== List of abilities =====
   * [[abilitiyinnerclock|Inner Clock]]
   * [[abilitiycompass|Compass]]
+  * [[abilitiydarkvision|Dark Vision]]
   * [[abilitiymentalmap|Mental Map]]
   * [[abilitiyreadandwrite|Read and Write]]
   * [[abilitiyvoicecontrol|Voice Control]]
@@ -22,3 +27,5 @@ There must be a number of not available as well as a number of excellent abiliti
   * [[storekeeper|Storekeeper]]
   * [[handscale|Hand Scale]]
   * [[abilities:pricestability|Bestprice]]
+  * [[abilities:waterproof|Waterproof]]
+  * [[abilities:roadrunner|Road Runner]]

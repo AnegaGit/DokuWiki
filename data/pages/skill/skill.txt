@@ -21,17 +21,18 @@ If the character performs any skill related activity, the effective skill time i
   - The learned experience can never be more than 0.9 times the experience needed for a skill step. It is not possible to step up 2 skills with a single action.
 ===== Level =====
 The exact skill level is not shown. The following wording is used in ascending order:
-  - noob
-  - beginner
-  - apprentice
-  - assistant
-  - journeyman 
-  - practitioner
-  - adept
-  - authority
-  - expert
-  - master
-  - grand master
+^No^name^level range^
+|0|noob|0-4|
+|1|beginner|5-14|
+|2|apprentice|15-24|
+|3|assistant|25-34|
+|4|journeyman|35-44|
+|5|practitioner|45-54|
+|6|adept|55-64|
+|7|authority|65-74|
+|8|expert|75-84|
+|9|master|85-94|
+|10|grand master|95-100|
 
 ===== Skill Level Limitation =====
 The player has to concentrate to some skills. A skill cap prevents a character to become a master of all trades. A Jack of all trades with a decent level in all skills is possible.
@@ -48,7 +49,7 @@ Skill point summary is calculated as 1+2+..+n where n is the current skill level
 |n|(1+n)*n/2|
 The summary of all skill points is limited in a way a character could reach level 62 (2000 summary points) in each skill or concentrate to some prefered skills.
 
-Skills are grouped as well. Each group has a separate skill gap. A player can reach level 70 (2500 summary points) in each skill or concentrate to a selected sill to master and reach a lower level for the other skills.\\
+Skills are grouped as well. Each group has a separate skill gap. A player can reach level 70 (2500 summary points) in each skill or concentrate to a selected skill to master and reach a lower level for the other skills.\\
 For example the fighting skills are in one group. So a character cannot become a master of all fighting styles.
 
 ===== Consequences =====
@@ -57,10 +58,10 @@ Continously performing skill actions lead to very small action effects.\\
 ==> RolePlay time is not wasted time.
 
 If the action is far below the level of the character, there is no skill gain.\\
-If the action is far abouve the level of the character, the actin effect becomes very small.\\
+If the action is far abouve the level of the character, the action effect becomes very small.\\
 ==> Concentrate to actions, related to your skill
 
-You cannot become a master in all crafts or skills, necessery to reach a target.\\
+You cannot become a master in all crafts or skills.\\
 Skilling everything at once slows down mastering a certain skill.\\
 ==> Concentrate on your strength and work together with other characters who have other strength.
 

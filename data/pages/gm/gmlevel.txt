@@ -1,0 +1,26 @@
+====== Game Master (GM) Levels ======
+The GM level (GM settings) of each character is stored in the character table of the data base.
+^Level^Position in string^effect^
+|isGM|1######################|is GM\\ basic permission|
+|isGod|#1#####################|is God\\ overlay everything|
+|hasTeleports|##11###################|number of remaining permitted teleports for player|
+|hasKills|####11#################|number of remaining permitted kills|
+|isShowAdvancedInfo|######1################|show advanced info|
+|showGmInOverlay|#######1###############|display GM in Overlay\\ player can detect a GM|
+|knowNames|########1##############|see all player names|
+|killMonster|#########1#############|can kill monster|
+|pullMonster|##########1############|can pull monster|
+|enterGmIsland|###########1###########|can enter GM island|
+|seeAllPlayer|############1##########|can see all player in GM tool|
+|broadcast|#############1#########|can broadcast|
+|unlimitedHealth|##############1########|unlimited health\\ cannot be killed by player|
+|unlimitedMana|###############1#######|unlimited mana|
+|unlimitedStamina|################1######|unlimited stamina|
+|canInvisibility|#################1#####|can become invisible|
+|seeAbilitiesAndAttributes\\ changeAbilitiesAndAttributes|##################1####|1 1 see, 2 edit attributes and abilities|
+|createItems|###################1###|can create unlimited items in inventory|
+|buildEnvironment|####################1##|can build unlimited environment|
+|changeSkills|#####################1#|can see skill numbers and change skills|
+|changeBasics|######################1|can change health, mana and staminia|
+
+See also GameMaster.cs.

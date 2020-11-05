@@ -1,0 +1,13 @@
+====== Animations ======
+===== Available Animations =====
+==== Spells ====
+  * LowSpell
+  * SimpleSpell
+  * PullSpell
+  * PushSpell
+  * PowerSpell
+==== Working ====
+  * CHOPPING
+  * MINING
+  * PICKING
+

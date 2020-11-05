@@ -1,0 +1,4 @@
+====== Frequently Asked Questions ======
+This section answers questions that may arise and are not answered in other articles.
+===== Environment =====
+**Coming back to a location in the wilderness it looks different, but rarely I see a plant grow or die.**\\ Plants have a growth cycle (see [[vegetation:collections:herbs|Herbs]]). This is specific to each plant. After a certain time, the plant changes to the next cycle or disappears. At the same time, new plants are constantly being planted.\\ In most cases, the whole thing only happens when there is no player in the area.\\ For example, if you discover a collection of herbs, no herb will naturally mature or otherwise age during your presence.

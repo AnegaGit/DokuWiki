@@ -1,0 +1,29 @@
+====== Gathering Sources ======
+===== Live Phase =====
+A gathering source item must have at least one life phase (//LifePhase0//).
+
+Depending on the events during the phase the next phase is selected. If the next phase doesn't exists (use -1) the item will decay.
+{{ :dev:map:gatheringsource_live_cycle.jpg?600 |diagram one live phase}}
+===== Special Properties =====
+  * Next Phase Used ...\\ define follow up phase when depleted after use\\ if not exists (-1) => decay
+  * Next Phase Timeout ...\\ define follow up phase when phase timed out\\ if not exists (-1) => decay
+  * Day In Phase\\ approximative time until phase timed out in IG days (8:15 h)\\ 0 => live forever if not used
+
+  * Change Invisible Only\\ Item will change to next phase if not used after end of phase time once no player is around.\\ If timed out and at least one player is in sight, the item can be used normal.\\ Phase will change after use even with player in sight.
+==== Issues ====
+**The next phase is the current phase.**\\ This is possible but poor design after used\\ Increase the number of items in resource and adapt the Next Phase Used properties\\ It can be used after timeout to get a slow change over time.
+
+**Phase timeout not exact**\\ The timeout time is obfuscated (+- 30%)
+===== Findings =====
+The average amount of resources in a source depends on the difference of the player skill and the gathering item skill. Character with a skill below the source only rarely find any resource before the source depleted.
+
+There is a probability the character don't get a resource in a try. This is in between //Void Tries Min// and //Void Tries Max//.\\ Additionally it depends on\\  * Character skill related to tool skill level\\  * Tool quality\\  * Character attributes valid for that skill
+
+Which resource is found is not influenced by skill or attributes.
+
+===== Prefab Design =====
+The prefab can contain the following special game objects
+  * //LifePhase#//\\ This is shown if the related phase is active only.\\ # is the number of the life phase [0 ... n]
+  * //LifePhase0// should be active, all other LifePhase# should be deactivated
+There can be further game objects.\\
+There must be at least one game object with a collider visible at any time to use the gathering source.

@@ -1,0 +1,67 @@
+====== Organize NPC Trade ======
+There is a separate tool for organizing the buy and sell list of an NPC.\\
+**Anega_NPCMerchants**
+===== Data =====
+The data are stored in the server based data base but not taken into consideration automatically.\\
+The following tables are part of the data set:\\
+  * ang_item_info
+  * ang_npcmerchant_info
+  * ang_buysellgroup
+  * ang_buysellitems
+
+The data are structured as follow:
+^Level^^^^Data^Data base table^
+|0| |||NPC\\ - Name\\ - Buy all sold items as well|ang_npcmerchant_info|
+|:::|1| ||Buy| |
+|:::|:::|2| |Group\\ - Name\\ - Price level\\ - Sort position|ang_buysellgroup|
+|:::|:::|:::|3|Item\\ - Name (ang_item_info)|ang_buysellitems|
+|:::|1| ||Sell| |
+|:::|:::|2| |Group\\ - Name\\ - Price level if item is bought\\ - Sort position|ang_buysellgroup|
+|:::|:::|:::|3|Item\\ - Name (ang_item_info)\\ - Quality\\ - Durability\\ - Price level|ang_buysellitems|
+To simplify the structure a NPC can buy all item it sell as well if te related property is set. The price level in the sell group refer to the buy action only!
+===== Load base data =====
+Merchants and items are load from the game. NPC merchants must be added to the NPC Merchant list under //Editor=>Manage Assets//.
+
+//Editor=>Manage Assets=>Load NPC and items into database//
+Items and NPC merchants are added to the main data base. This only applies to tables:
+  * ang_item_info
+  * ang_npcmerchant_info
+The result messages are:
+<code>
+NPC merchants: 53 items updated (1 warnings in log file)
+NPC merchants: 1 NPC updated (1 warnings in log file)</code>
+Warnings most likely refer to items and NPC which are listed in the data base but not found in the game. These are not deleted since there might have been name changes or other issues.\\
+Please correct the data direct in the data base!
+===== Edit traded items =====
+Which items a NPC buy or sell is organized with the tool **Anega_NPCMerchants.exe**.\\
+The following tables are edited only:
+  * ang_buysellgroup
+  * ang_buysellitems
+{{ :dev:npc_merchant_organization_program.jpg |Main window}}
+(1) Load and save data\\
+Be aware the changes are not direct updated in the data base. You have actively request a //Save//. You can even load the data from one data base into another.\\
+The tables are deleted and rebuild. Items and merchants are not changed.
+
+(2) The data structure\\
+Use the context menue to apply any change (add, edit, sort, remove).
+
+(3) The current selected node properties.
+
+(4) Filter the item list
+
+(5) Item List\\
+To add items you have to mark them here first. Then all selected items can be added to a group (right-click on the group).
+===== Apply to game =====
+Use //Editor=>Manage Assets=>Apply groups and items from database to NPC//.\\
+The current settings for groups and items are replaced by the data based data. The following tables are taken into consideration only:
+  * ang_buysellgroup
+  * ang_buysellitems
+Before applying the change you should check the date with //Editor=>Manage Assets=>Test groups and items from database to NPC//.
+
+Some possible messages in the log file:
+<code>[WAR] NPC trading: Item **item name** in **group**=>**npc** not availabe in game
+[WAR] NPC trading: Table ang_npcmerchant_info contains unknown merchant: **npc**
+[WAR] NPC trading: Table ang_item_info contains unknown item: **item**
+[WAR] NPC trading: Orphaned group **group** (id:xxx) in ang_buysellgroup refers to unknown merchant **npc**
+[WAR] NPC trading: Orphaned listed item **item** (id:xxx) in ang_buysellitems refers to unknown group ID yyy</code>
+Please correct the data direct in the data base!

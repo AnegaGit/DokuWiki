@@ -1,151 +1,22 @@
-1575804053	::1	E	dev:umacombinations		[Shoes] 		288
-1575804115	::1	E	dev:umacombinations		[Boots] 		18
-1575804161	::1	E	dev:umagarments				559
-1576076167	::1	E	dev:umacombinations	baylamon	[Shirt] 		185
-1576076257	::1	E	dev:umacombinations	baylamon	[Shirt] 		71
-1576076597	::1	C	general:start	baylamon	↷ Page moved from start to general:start		908
-1576076597	::1	D	start	baylamon	↷ Page moved from start to general:start		-908
-1576076597	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		8
-1576076598	::1	e	wiki:welcome	baylamon	↷ Links adapted because of a move operation		7
-1576076894	::1	C	start	baylamon	created		45
-1576076933	::1	E	start	baylamon			8
-1576077212	::1	E	start	baylamon			569
-1576077350	::1	C	general:logo	baylamon	↷ Page moved from logo to general:logo		148
-1576077350	::1	D	logo	baylamon	↷ Page moved from logo to general:logo		-148
-1576077350	::1	e	start	baylamon	↷ Links adapted because of a move operation		8
-1576077350	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		8
-1576078478	::1	C	play:key	baylamon	↷ Page moved from key to play:key		838
-1576078478	::1	D	key	baylamon	↷ Page moved from key to play:key		-838
-1576078478	::1	e	start	baylamon	↷ Links adapted because of a move operation		5
-1576078478	::1	e	mouse	baylamon	↷ Links adapted because of a move operation		5
-1576078478	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		5
-1576078848	::1	C	internal:nonlinearcurves	baylamon	↷ Page moved from nonlinearcurves to internal:nonlinearcurves		1308
-1576078848	::1	D	nonlinearcurves	baylamon	↷ Page moved from nonlinearcurves to internal:nonlinearcurves		-1308
-1576078848	::1	e	start	baylamon	↷ Links adapted because of a move operation		9
-1576078848	::1	e	npctrade	baylamon	↷ Links adapted because of a move operation		18
-1576078848	::1	e	skill	baylamon	↷ Links adapted because of a move operation		18
-1576078849	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		9
-1576078899	::1	C	environment:calendar	baylamon	↷ Page moved from calendar to environment:calendar		743
-1576078899	::1	D	calendar	baylamon	↷ Page moved from calendar to environment:calendar		-743
-1576079170	::1	C	play:gmactions	baylamon	↷ Page moved from gmactions to play:gmactions		2217
-1576079170	::1	D	gmactions	baylamon	↷ Page moved from gmactions to play:gmactions		-2217
-1576079170	::1	C	play:movecontrol	baylamon	↷ Page moved from movecontrol to play:movecontrol		1370
-1576079170	::1	D	movecontrol	baylamon	↷ Page moved from movecontrol to play:movecontrol		-1370
-1576079171	::1	C	play:npctrade	baylamon	↷ Page moved from npctrade to play:npctrade		788
-1576079171	::1	D	npctrade	baylamon	↷ Page moved from npctrade to play:npctrade		-788
-1576079171	::1	C	play:mouse	baylamon	↷ Page moved from mouse to play:mouse		531
-1576079171	::1	D	mouse	baylamon	↷ Page moved from mouse to play:mouse		-531
-1576079171	::1	C	internal:playerpreferences	baylamon	↷ Page moved from playerpreferences to internal:playerpreferences		4822
-1576079171	::1	D	playerpreferences	baylamon	↷ Page moved from playerpreferences to internal:playerpreferences		-4822
-1576079171	::1	C	environment:money	baylamon	↷ Page moved from money to environment:money		265
-1576079171	::1	D	money	baylamon	↷ Page moved from money to environment:money		-265
-1576079171	::1	C	general:license	baylamon	↷ Page moved from license to general:license		3089
-1576079171	::1	D	license	baylamon	↷ Page moved from license to general:license		-3089
-1576079171	::1	C	environment:day	baylamon	↷ Page moved from day to environment:day		398
-1576079171	::1	D	day	baylamon	↷ Page moved from day to environment:day		-398
-1576079171	::1	e	start	baylamon	↷ Links adapted because of a move operation		37
-1576079171	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		37
-1576079171	::1	e	item	baylamon	↷ Links adapted because of a move operation		19
-1576079172	::1	e	logfile	baylamon	↷ Links adapted because of a move operation		9
-1576079181	::1	e	play:gmactions	baylamon	↷ Links adapted because of a move operation		4
-1576079221	::1	C	gm:gmactions	baylamon	↷ Page moved from play:gmactions to gm:gmactions		2221
-1576079222	::1	D	play:gmactions	baylamon	↷ Page moved from play:gmactions to gm:gmactions		-2221
-1576079222	::1	e	start	baylamon	↷ Links adapted because of a move operation		-2
-1576079222	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		-2
-1576079338	::1	C	play:contextmenu	baylamon	↷ Page moved from contextmenu to play:contextmenu		965
-1576079338	::1	D	contextmenu	baylamon	↷ Page moved from contextmenu to play:contextmenu		-965
-1576079338	::1	C	internal:logfile	baylamon	↷ Page moved from logfile to internal:logfile		246
-1576079338	::1	D	logfile	baylamon	↷ Page moved from logfile to internal:logfile		-246
-1576079338	::1	C	gm:gmpanel	baylamon	↷ Page moved from gmpanel to gm:gmpanel		668
-1576079339	::1	D	gmpanel	baylamon	↷ Page moved from gmpanel to gm:gmpanel		-668
-1576079339	::1	C	gm:gmlog	baylamon	↷ Page moved from gmlog to gm:gmlog		898
-1576079339	::1	D	gmlog	baylamon	↷ Page moved from gmlog to gm:gmlog		-898
-1576079339	::1	C	gm:gmintervention	baylamon	↷ Page moved from gmintervention to gm:gmintervention		852
-1576079339	::1	D	gmintervention	baylamon	↷ Page moved from gmintervention to gm:gmintervention		-852
-1576079339	::1	e	gm:gmactions	baylamon	↷ Links adapted because of a move operation		10
-1576079517	::1	C	abilities:abilities	baylamon	↷ Page moved from abilities to abilities:abilities		774
-1576079517	::1	D	abilities	baylamon	↷ Page moved from abilities to abilities:abilities		-774
-1576079517	::1	e	start	baylamon	↷ Links adapted because of a move operation		10
-1576079517	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		10
-1576079543	::1	C	attributes:attributes	baylamon	↷ Page moved from attributes to attributes:attributes		1355
-1576079544	::1	D	attributes	baylamon	↷ Page moved from attributes to attributes:attributes		-1355
-1576079544	::1	e	start	baylamon	↷ Links adapted because of a move operation		11
-1576079544	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		11
-1576079705	::1	C	abilities:abilitiyvoicecontrol	baylamon	↷ Page moved from abilitiyvoicecontrol to abilities:abilitiyvoicecontrol		475
-1576079705	::1	D	abilitiyvoicecontrol	baylamon	↷ Page moved from abilitiyvoicecontrol to abilities:abilitiyvoicecontrol		-475
-1576079705	::1	C	abilities:abilitiyreadandwrite	baylamon	↷ Page moved from abilitiyreadandwrite to abilities:abilitiyreadandwrite		613
-1576079705	::1	D	abilitiyreadandwrite	baylamon	↷ Page moved from abilitiyreadandwrite to abilities:abilitiyreadandwrite		-613
-1576079706	::1	D	death	baylamon	↷ Page moved from death to play:death		-197
-1576079706	::1	C	abilities:abilitiymentalmap	baylamon	↷ Page moved from abilitiymentalmap to abilities:abilitiymentalmap		622
-1576079706	::1	D	abilitiymentalmap	baylamon	↷ Page moved from abilitiymentalmap to abilities:abilitiymentalmap		-622
-1576079706	::1	C	abilities:abilitiyinnerclock	baylamon	↷ Page moved from abilitiyinnerclock to abilities:abilitiyinnerclock		859
-1576079706	::1	D	abilitiyinnerclock	baylamon	↷ Page moved from abilitiyinnerclock to abilities:abilitiyinnerclock		-859
-1576079706	::1	C	attributes:strenghth	baylamon	↷ Page moved from strenghth to attributes:strenghth		724
-1576079706	::1	D	strenghth	baylamon	↷ Page moved from strenghth to attributes:strenghth		-724
-1576079706	::1	C	attributes:mana	baylamon	↷ Page moved from mana to attributes:mana		751
-1576079706	::1	D	mana	baylamon	↷ Page moved from mana to attributes:mana		-751
-1576079706	::1	C	attributes:stamina	baylamon	↷ Page moved from stamina to attributes:stamina		730
-1576079706	::1	D	stamina	baylamon	↷ Page moved from stamina to attributes:stamina		-730
-1576079706	::1	C	abilities:handscale	baylamon	↷ Page moved from handscale to abilities:handscale		1294
-1576079706	::1	D	handscale	baylamon	↷ Page moved from handscale to abilities:handscale		-1294
-1576079706	::1	C	abilities:storekeeper	baylamon	↷ Page moved from storekeeper to abilities:storekeeper		1062
-1576079706	::1	D	storekeeper	baylamon	↷ Page moved from storekeeper to abilities:storekeeper		-1062
-1576079706	::1	C	play:death	baylamon	↷ Page moved from death to play:death		197
-1576079707	::1	C	abilities:abilitiycompass	baylamon	↷ Page moved from abilitiycompass to abilities:abilitiycompass		543
-1576079707	::1	D	abilitiycompass	baylamon	↷ Page moved from abilitiycompass to abilities:abilitiycompass		-543
-1576079707	::1	C	abilities:abilitiydiagnosis	baylamon	↷ Page moved from abilitiydiagnosis to abilities:abilitiydiagnosis		739
-1576079707	::1	D	abilitiydiagnosis	baylamon	↷ Page moved from abilitiydiagnosis to abilities:abilitiydiagnosis		-739
-1576079707	::1	C	attributes:health	baylamon	↷ Page moved from health to attributes:health		1247
-1576079707	::1	D	health	baylamon	↷ Page moved from health to attributes:health		-1247
-1576079707	::1	e	abilities:abilities	baylamon	↷ Links adapted because of a move operation		1
-1576079707	::1	e	attributes:attributes	baylamon	↷ Links adapted because of a move operation		3
-1576079834	::1	C	skill:skill	baylamon	↷ Page moved from skill to skill:skill		3676
-1576079834	::1	D	skill	baylamon	↷ Page moved from skill to skill:skill		-3676
-1576079835	::1	e	start	baylamon	↷ Links adapted because of a move operation		6
-1576079835	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		6
-1576079854	::1	C	item:item	baylamon	↷ Page moved from item to item:item		1205
-1576079854	::1	D	item	baylamon	↷ Page moved from item to item:item		-1205
-1576079854	::1	e	start	baylamon	↷ Links adapted because of a move operation		5
-1576079854	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		5
-1576080258	::1	C	attributes:speed	baylamon	↷ Page moved from speed to attributes:speed		526
-1576080258	::1	D	speed	baylamon	↷ Page moved from speed to attributes:speed		-526
-1576080258	::1	C	skill:weaponmastery	baylamon	↷ Page moved from weaponmastery to skill:weaponmastery		635
-1576080258	::1	D	weaponmastery	baylamon	↷ Page moved from weaponmastery to skill:weaponmastery		-635
-1576080258	::1	C	attributes:perception	baylamon	↷ Page moved from perception to attributes:perception		573
-1576080258	::1	D	perception	baylamon	↷ Page moved from perception to attributes:perception		-573
-1576080258	::1	C	attributes:luck	baylamon	↷ Page moved from luck to attributes:luck		993
-1576080258	::1	D	luck	baylamon	↷ Page moved from luck to attributes:luck		-993
-1576080259	::1	C	abilities:pricestability	baylamon	↷ Page moved from pricestability to abilities:pricestability		1413
-1576080259	::1	D	pricestability	baylamon	↷ Page moved from pricestability to abilities:pricestability		-1413
-1576080259	::1	C	play:portal	baylamon	↷ Page moved from portal to play:portal		650
-1576080259	::1	D	portal	baylamon	↷ Page moved from portal to play:portal		-650
-1576080259	::1	e	attributes:attributes	baylamon	↷ Links adapted because of a move operation		30
-1576080259	::1	e	attack	baylamon	↷ Links adapted because of a move operation		6
-1576080259	::1	e	fighting	baylamon	↷ Links adapted because of a move operation		17
-1576080259	::1	e	armor	baylamon	↷ Links adapted because of a move operation		12
-1576080259	::1	e	play:npctrade	baylamon	↷ Links adapted because of a move operation		10
-1576080259	::1	e	abilities:abilities	baylamon	↷ Links adapted because of a move operation		9
-1576080366	::1	C	fighting:fighting	baylamon	↷ Page moved from fighting to fighting:fighting		1557
-1576080366	::1	D	fighting	baylamon	↷ Page moved from fighting to fighting:fighting		-1557
-1576080366	::1	e	start	baylamon	↷ Links adapted because of a move operation		9
-1576080366	::1	e	sidebar	baylamon	↷ Links adapted because of a move operation		9
-1576080427	::1	C	misc:activeplaytime	baylamon	↷ Page moved from activeplaytime to misc:activeplaytime		312
-1576080427	::1	D	activeplaytime	baylamon	↷ Page moved from activeplaytime to misc:activeplaytime		-312
-1576080427	::1	e	skill:skill	baylamon	↷ Links adapted because of a move operation		5
-1576080617	::1	C	misc:playtime	baylamon	↷ Page moved from playtime to misc:playtime		465
-1576080617	::1	D	playtime	baylamon	↷ Page moved from playtime to misc:playtime		-465
-1576080617	::1	C	fighting:attack	baylamon	↷ Page moved from attack to fighting:attack		830
-1576080617	::1	D	attack	baylamon	↷ Page moved from attack to fighting:attack		-830
-1576080618	::1	C	fighting:armor	baylamon	↷ Page moved from armor to fighting:armor		2457
-1576080618	::1	D	armor	baylamon	↷ Page moved from armor to fighting:armor		-2457
-1576080847	::1	E	start	baylamon			28
-1576082089	::1	E	start	baylamon	[Documentation] 		5
-1576082340	::1	E	start	baylamon	[Documentation] 		-1
-1576082383	::1	E	start	baylamon			-637
-1576082414	::1	E	start	baylamon	[Sitemap] 		-2
-1576082542	::1	E	start	baylamon	[Sitemap] 		739
-1576095997	::1	E	dev:umacombinations		[Dress] 		0
-1576265954	::1	E	dev:umacombinations		[Chest Wardrobe] 		-1
-1576266365	::1	E	dev:umacombinations		[Robes] 		276
-1576266971	::1	E	dev:umagarments				343
-1576267080	::1	E	dev:umagarments		[Available Garment] 		1
+1597392556	::1	E	play:key		[UI] 		23
+1598169440	::1	E	item:wands				20
+1598544508	::1	E	internal:nonlinearcurves		[Advanced] 		132
+1598544550	::1	E	internal:nonlinearcurves		[Advanced] 		0
+1598545568	::1	E	item:wands				384
+1598545675	::1	E	item:wands		[Known Wand] 		-6
+1598545703	::1	E	item:wands		[Known Wand] 		0
+1598550547	::1	E	item:wands		[Known Wand] 		98
+1598550560	::1	E	item:wands		[Known Wand] 		1
+1598625029	::1	E	magic:water				140
+1598628322	::1	E	magic:water				128
+1598726127	::1	E	magic:fire		[Spells] 		12
+1598726466	::1	E	magic:fire		[Spells] 		242
+1598792596	::1	E	magic:earth		[Spells] 		180
+1598792616	::1	E	magic:earth		[Spells] 		-7
+1598878922	::1	E	magic:wind		[Spells] 		275
+1599725902	::1	E	magic:earth		[Spells] 		605
+1599725949	::1	E	magic:earth		[Spells] 		0
+1599728418	::1	E	magic:earth		[Spells] 		30
+1599728438	::1	E	magic:earth		[Spells] 		1
+1599833987	::1	E	magic:water		[Spells] 		171
+1599834004	::1	E	magic:water		[Spells] 		0

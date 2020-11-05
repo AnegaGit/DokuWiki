@@ -1,0 +1,24 @@
+====== NavMesh ======
+Any character and NPC can move on a NavMesh only.
+===== Areas =====
+The NavMesh contains the following different areas:
+  * Not Walkable
+  * Walkable
+  * Shallow Water
+  * Deep Water
+  * Road
+===== Creation =====
+To build a NavMesh abking all meshes in necessary.
+==== 1. Create temporary terrains ====
+Hierarchy => World => Editor\\
+Inspector => Create Nav Mesh (Script) => Build temporary Nav Mesh Data
+==== 2. Bake NavMesh ====
+Window => AI => Navigation => Bake\\
+Baking take some time (up to 10 minutes). Do not minimize Unity while baking.
+==== 3. Clean Up ====
+Hierarchy => World => Editor\\
+Inspector => Create Nav Mesh (Script) => Remove temporary Nav Mesh Data
+===== Design Limitations =====
+A terrain in an area must not raised (y value != 0) individually.
+
+

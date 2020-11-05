@@ -1,0 +1,13 @@
+====== Rhuro ======
+It grows in in swamps. 
+
+{{ vegetation:rhuro.jpg?600 |Rhuro}}
+The 3 phases and the finding.
+===== Live Cycle =====
+The herb lives very long and regrow again and again.
+^Phase^Finding^when collected^Average duration^After timeout^
+|young| ||8 days|normal|
+|normal|some rhuro stems|cut|50 days|cut|
+|cut| ||14 days|80% young\\ 20% dies|
+===== Trivia =====
+The plant was derived from rhubarb.

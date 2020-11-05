@@ -1,0 +1,13 @@
+====== Mountainmoss ======
+It grows in groups in the mountains. It has a faint blue glow. Once harvested, it glow for a few minutes once it was squeezed. 
+
+{{ vegetation:mountainmoss.jpg?600 |Mountainmoss}}
+The phases and the finding.
+===== Live Cycle =====
+The herb has 5 phases some with findings.
+^Phase^Finding^when collected^Average duration^After timeout^
+|young| ||2 days|adult 1|
+|adult 1|a few pieces mountainmoss|adult 2 or old|48 days|old|
+|adult 2| ||2 days|adult 3|
+|adult 3|a few pieces mountainmoss|adult 2 or old|12 days|old|
+|old| ||5 days|dies|

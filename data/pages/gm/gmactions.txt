@@ -1,4 +1,7 @@
 ====== Game Master (GM) Actions ======
+===== Actions =====
+^Trigger^Action^Limitation^Remark^
+|Chat "/gm"|Message to GM and [[gm:gmlog|GM log file]]|Every player|Message is sent to every active GM\\ and saved in the log|
 Depending on the GM level a GM can perform the following actions:
 ^Trigger^Action^Limitation^Remark^
 |Key G|[[gm:gmpanel|GM Panel]]|every GM|Open/close the panel |
@@ -14,14 +17,16 @@ Depending on the GM level a GM can perform the following actions:
 |Character examination|Advanced information|GM settings| |
 |GM Panel|Broadcast|GM settings| |
 |GM Panel|Message to player|every GM| |
-|Chat "/gm"|Message to GM and [[gm:gmlog|GM log file]]|Every player|Message is sent to every active GM\\ and saved in the log|
-|**Abilities**||||
+|GM Panel|Initialize Webcam|every GM| |
+|GM Panel|Seed resource|GM settings| |
+|Context menu and F2|remove resource|GM settings| |
+===== Abilities =====
 | |Night Vision|every GM|Can see in darkness|
 | |Read and Write|every GM|Can read and write everything|
 | |Handscale|every GM|Can determine the weigt of items|
-| |Unlimited health|GM settings|Health regenerates instantly\\Suicide and single hit kill still possible.|
-| |Unlimited mana|GM settings|Mana regenerates instantly|
-| |Unlimited stamina|GM settings|Stamina regenerates instantly|
+|GM panel|Unlimited health|GM settings|Health regenerates instantly\\Suicide and single hit kill still possible.|
+|GM panel|Unlimited mana|GM settings|Mana regenerates instantly|
+|GM panel|Unlimited stamina|GM settings|Stamina regenerates instantly|
 | |No divergences|every GM|Time, north direction, weight and other values are not obfuscated.|
 
 Some actions are logged in the [[gm:gmlog|GM log file]].
@@ -30,7 +35,7 @@ Some actions are logged in the [[gm:gmlog|GM log file]].
 1. ItemTeleport to target\\
 2. Teleport to NPC or player\\
 3. Pull player to GM\\
-4. Kill player or NPC
+4. Kill player or NPC or remove item
 
 Details see also: [[play:contextmenu|context menu]]
 ==== Secured actions ====
@@ -38,3 +43,6 @@ For some actions an additional key is required to avoid an accidentially call.\\
 1. Suicide\\
 2. Kill player or NPC\\
 3. Pull player or NPC
+==== Indirect actions ====
+A GM cannot teach a character a certain spell.\\
+=> Create a spellbook and hand it to the character.

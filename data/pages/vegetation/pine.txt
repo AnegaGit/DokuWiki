@@ -1,0 +1,19 @@
+====== Pine ======
+Mostly found in pine forests.
+
+{{ vegetation:pine.jpg |Pine}}
+A tree and what remains after.
+===== Live Cycle =====
+The basic tree has 2 phases with different findings. It lives only one time.
+^Phase^Finding^skill^when collected^Average duration^when timeout^
+|tree|pine logs\\ pine branches|woodcutting|stump|624 days|stump|
+|stump| |||2 days|dies|
+
+There are some rare solitary trees with a longer life span.
+^Phase^Finding^skill^when collected^Average duration^when timeout^
+|tree|pine logs\\ pine branches|woodcutting|stump|62 days|large tree|
+|large tree|pine logs\\ pine branches|woodcutting|stump|462 days|intermediate tree|
+|intermediate tree| |||4 days|solitary tree|
+|solitary tree|iron wood logs\\ iron wood branches|woodcutting (high)|8o% intermediate tree\\ 20% giant stump|686 days|stump|
+|stump| |||2 days|dies|
+|giant stump| |||7 days|dies|

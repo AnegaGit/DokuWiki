@@ -16,11 +16,11 @@ The character is right-handed.\\
 The attack weapon should be in the right hand. Only if the right hand does not hold an attack weapon will the weapon be used in the left hand.\\
 The shield or weapon to parry should be in the left hand. Only if the character does not hold an item with which to parry, the item is used in the right hand.
 
-**Attention:** You can also parry with all weapons. If the character holds a sword on the left and a shield on the right, he attacks and parries with the sword. This may lead to some stange activity of the character as well.
+**Attention:** You can also parry with all weapons. If the character holds a sword on the left and a shield on the right, he attacks and parries with the sword. This may lead to some strange activity of the character as well.
 ===== Further Information =====
 The following articles contains further details about the fighting system:
   * [[attack|Attacking]]
   * [[armor|Armor and Defense]]
-  * [[skill:weaponmastery|Mastery of Weaponor Armor]]
+  * [[skill:weaponmastery|Mastery of Weapons, Spells or Armor]]
   * [[attributes:luck|Luck]]
 

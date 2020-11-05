@@ -1,0 +1,12 @@
+====== Whiteblade ======
+This plant grows scattered in open areas.
+
+{{ vegetation:whiteblade.jpg |Whiteblade}}
+All 4 phases and 3 findings.
+===== Live Cycle =====
+The herb has 4 phases with different findings. It lives only one time.
+^Phase^Finding^when collected^Average duration^when timeout^
+|young|about 4 leafs|dies|17 days|bloomy|
+|bloomy| ||5 days|ripe|
+|ripe|about 25 grains|old|2 days|old|
+|old|rarely 1 black grain\\ high skill needed|dies|7 days|dies|

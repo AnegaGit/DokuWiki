@@ -1,0 +1,28 @@
+====== Wind Magic ======
+//Today here tomorrow there//\\
+Like the wind, this school is able to get almost anywhere or get everything.\\
+Here you will find teleport spells.\\
+Wind attacks are weak.
+
+Color: Green\\
+Gem  : Emerald
+===== Spells =====
+^Symbol^Spell^Effect^Spellbook item (for GM)^
+^Attack^^^^
+|{{:magic:s_airattack_low.png|}}|Minor wind attack|Damage the taget a little bit\\ a ahort stun is likely|LearnMinorWindAttack|
+|{{:magic:s_airattack_medium.png|}}|Medium wind attack|Stun the taget almost for sure\\ takes some damage|LearnMediumWindAttack|
+|{{:magic:s_airattack_high.png|}}|Strong wind attack|Stun the target for quite some time\\ Takes a small portion of the target's health|LearnStrongWindAttack|
+^Teleport^^^^
+|{{:magic:teleport1.png|}}|Short Jump|Teleport yourself a few steps\\ Cannot be used on other chars or monster|LearnShortJump|
+|{{:magic:teleport2.png|}}|Short Pull|Teleport other chars a few steps\\ Cannot be used on self or monster|LearnShortPull|
+|{{:magic:teleport3.png|}}|Long Jump|Teleport yourself far away\\ Cannot be used on other chars or monster|LearnLongJump|
+|{{:magic:teleport4.png|}}|Long Pull|Teleport other chars far away\\ Cannot be used on self or monster|LearnLongPull|
+|{{:magic:teleport5.png|}}|Teleport single|Teleport yourself or a single other as you want\\ Can be used on self, other chars and monster|LearnTeleportSingle|
+|{{:magic:teleport9.png|}}|Pull Group|Pulls a group of character next to you\\ Can be used on other chars only|LearnPullGroup|
+|{{:magic:teleport8.png|}}|Teleport Group|Teleport a group over a long distance\\ Can be used on character, monster and yourself|LearnTeleportGroup|
+===== Combined Attributes Requirements =====
+The following attributes should be taken into consideration for being a mage of this school:
+|strength|irrelevant|
+|dexterity|3|
+|agility|1|
+|perception|2|

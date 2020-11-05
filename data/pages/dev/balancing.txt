@@ -1,0 +1,20 @@
+====== Notes About Balancing ======
+===== Gathering =====
+Using a tool at the exact skill of the character, the character may get 50% tries to find any resource as parameter //Items in Resource// say.\\
+Some of the tries may be void, depending on the parameter //Void Tries Min/Max//. The position in between Min-Max depends equally on
+  * the characteer skill related to the tool skill
+  * the character attributes related to the skill attributes
+  * the tool quality. 
+==== Tool Influence ====
+The working speed (work time) is in a range depending on the character skill related to the tool skill level.\\
+The [[attributes:luck|luck factor]] influences the probability of special findings and increases the amount of items the character can get. 
+  * Tools with higher skill level should allow lower work times.
+  * Better tools can have higher luck factors.
+==== Resource Influence ====
+In the same phase there is no skill related difference what items the character find.\\
+Items for higher skilled people only should have a seperate phase with higher //Best Skill Level//.\\
+If a larger amount of items can be found give more items per try.
+=== Special Findings ===
+The //Probability Extra Stuff// is taken into consideration only, if the character find anything already. The content is generic.
+
+If some resource specific findings are planned, these findings has to be part of the list of items to find. The probability has to be adapted accordingly.\\ **Example:** Item1 has a probability of 49 and item2 a probability of 1. The character get in 1 out of 50 (49+1) cases item2. That's exact 2%.

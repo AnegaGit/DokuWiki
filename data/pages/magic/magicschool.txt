@@ -1,0 +1,9 @@
+====== Magic Schools ======
+{{:magic:magiccircle.jpg?400|Magic Schools}}\\
+There are 4 different magic schools known:\\
+  * [[magic:fire|Fire]]
+  * [[magic:water|Water]]
+  * [[magic:earth|Earth]]
+  * [[magic:wind|Wind / Air]]
+
+Each represents a different set of magic capabilities. Nobody is able to become a master in all schools.

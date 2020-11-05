@@ -1,0 +1,24 @@
+====== Oak ======
+Mostly found in broadleaf forests.
+
+{{ vegetation:oak.jpg |Oak}}
+A young tree, an adult tree and what remains after.
+===== Live Cycle =====
+The basic tree has 3 phases with different findings. It lives only one time.
+^Phase^Finding^skill^when collected^Average duration^when timeout^
+|young tree|oak branches|woodcutting|adult tree|124 days|adult tree|
+|adult tree|oak logs\\ oak branches|woodcutting|stump|600 days|stump|
+|stump| |||12 days|dies|
+
+More often there is a young tree, that usually hasn't enough space and dies early.
+^Phase^Finding^skill^when collected^Average duration^when timeout^
+|young tree|oak branches|woodcutting|dies|82 days|dies|
+
+There are some rare solitary trees with a longer life span.
+^Phase^Finding^skill^when collected^Average duration^when timeout^
+|young tree|oak branches|woodcutting|stump|62 days|adult tree|
+|adult tree|oak logs\\ oak branches|woodcutting|stump|321 days|solitary tree|
+|intermediate tree| |woodcutting (high)||10 days|solitary tree|
+|solitary tree|iron wood logs\\ iron wood branches|woodcutting (high)|8o% intermediate tree\\ 20% giant stump|231 days|stump|
+|stump| |||12 days|dies|
+|giant stump| |||22 days|dies|

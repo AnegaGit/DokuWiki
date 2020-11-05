@@ -1,0 +1,12 @@
+====== Runkel ======
+This relatively large solitary plant grows in open areas.
+
+{{ vegetation:runkel.jpg |Runkel}}
+All 4 phases and 2 findings.
+===== Live Cycle =====
+The herb has 4 phases with different findings. It lives only one time.
+^Phase^Finding^when collected^Average duration^when timeout^
+|young| ||14 days|ripe|
+|ripe|about 1 runkel root|dies|7 days|old|
+|old| ||14 days|seed|
+|seed|about 10 runkel seeds|dies|7 days|dies|

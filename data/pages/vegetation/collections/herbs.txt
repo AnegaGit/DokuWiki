@@ -1,0 +1,15 @@
+====== Herbs ======
+For the fruits, leafs and roots one can find see [[vegetation:collections:fruits|here]].
+^Name^Picture^Findings^
+|[[vegetation:glowmoss|Glowmoss]]|[[vegetation:glowmoss|{{ vegetation:glowmoss_small.jpg?150 |Glowmoss}}]]|Glowmoss|
+|[[vegetation:foxine|Foxine]]|[[vegetation:foxine|{{ vegetation:foxine_small.jpg?150 |Foxine}}]]|Foxine leaf\\ Foxine seed|
+|[[vegetation:heyberry|Heyberry]]|[[vegetation:heyberry|{{ vegetation:heyberry_small.jpg?150 |Heyberry}}]]|Heyberry\\ White carrot|
+|[[vegetation:mountainmoss|Mountainmoss]]|[[vegetation:mountainmoss|{{ vegetation:mountainmoss_small.jpg?150 |Mountainmoss}}]]|Mountainmoss|
+|[[vegetation:rhuro|Rhuro]]|[[vegetation:rhuro|{{ vegetation:rhuro_small.jpg?150 |Rhuro}}]]|Rhuro stem|
+|[[vegetation:runkel|Runkel]]|[[vegetation:runkel|{{ vegetation:runkel_small.jpg?150 |Runkel}}]]|Runkel root\\ Runkel seed|
+|[[vegetation:starstripe|Starstripe]]|[[vegetation:starstripe|{{ vegetation:starstripe_small.jpg?150 |Starstripe}}]]|Starstripe berry\\ Starstripe leaf|
+|[[vegetation:stinkefinger|Stinkefinger]]|[[vegetation:stinkefinger|{{ vegetation:stinkefinger_small.jpg?150 |Stinkefinger}}]]|Stinkefinger leaf\\ Stinkefinger seed\\ Red root|
+|[[vegetation:stumbletwine|Stumbletwine]]|[[vegetation:stumbletwine|{{ vegetation:stumbletwine_small.jpg?150 |Stumbletwine}}]]|Stumbletwine leaf|
+|[[vegetation:threeleaf|Threeleaf]]|[[vegetation:threeleaf|{{ vegetation:threeleaf_small.jpg?150 |Threeleaf}}]]|Threeleaf leaf\\ Threeleaf berry\\ Threeleaf root|
+|[[vegetation:whiteblade|Whiteblade]]|[[vegetation:whiteblade|{{ vegetation:whiteblade_small.jpg?150 |Whiteblade}}]]|Whiteblade leaf\\ Whiteblade grain\\ Black grain|
+|[[vegetation:wolffern|Wolffern]]|[[vegetation:wolffern|{{ vegetation:wolffern_small.jpg?150 |Wolffern}}]]|Wolffern leaf|

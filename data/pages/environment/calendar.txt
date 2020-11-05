@@ -2,7 +2,7 @@
 ==== Real Time Relations ====
 A day in game lasts 8:15 hours of real time.
 
-The 1st day of calendar 1. Spring of year 00 based on 1970-01-01 00:00.
+The 1st day of calendar 1. Spring of year 154 based on 2020-01-01 00:00:00.\\ Doomsday is on 2088-01-19 03:14:07.
 
 The time calculation based on UTC.
 ==== Game Calendar ====
@@ -23,9 +23,9 @@ Character can use own calendar as long as the length of a year is not changed.
 
 ==== Example ====
 ^Real time^Game time^
-|1970-01-01 00:00:00|1. day in Spring of year 0 00:00|
-|2018-09-13 00:00:00|1. day in Spring of year 154 00:00|
-|2001-10-12 10:02:31|84. day in Summer of year 100 00:50|
+|2020-01-01 00:00:00|1. day in Spring of year 154 00:00|
+|2020-04-07 08:17:43|32. day in Winter of year 154 04:29|
+|2021-03-24 10:12:07|45. day in Winter of year 157 12:13|
 
 
 

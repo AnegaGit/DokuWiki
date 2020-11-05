@@ -1,0 +1,13 @@
+====== Stumbletwine ======
+Stumbletwine thrives in forests.
+
+{{ vegetation:stumbletwine.jpg |Stumbletwine}}
+Some phases and the finding.
+===== Live Cycle =====
+The herb can live almost forever. Once some leafs where taken it regrows,
+^Phase^Finding^when collected^Average duration^when timeout^
+|phase 0|about 10 leafs |dies|2 days|phase 1|
+|phase 1 -\\ phase 7|about 10 leafs|96% phase n-1\\ 4% dies|2 days|phase n+1|
+|phase 8|about 10 leafs|96% phase 7\\ 4% dies|2 days|90% phase 7\\ 10% dies|
+===== Trivia =====
+The plant was derived from ivy.

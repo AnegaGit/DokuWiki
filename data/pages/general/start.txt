@@ -8,5 +8,6 @@
   * The characters are not bright heros with unlimited powers. Every character has advantages and serious disadvatages.
 ===== Design Principles =====
   * The game is not about numbers. The player rarely will see numbers describing the character.\\ For example: The health is not 96%, the character simply is unharmed.
-  * Disadvantages are not just role played and can simply be ignored. Disadvantages are anchored in the engine.\\ For example: If the character can not read signposts, the player too can not.
+  * Disadvantages are not just role played and can simply be ignored. Disadvantages are anchored in the engine.\\ For example: If the character can not read what makes it impossible to understand signposts, the player too can not.
   * Dependencies are not linear.\\ For example, the additional damage gained through skill gain is not constant over the skill range.
+  * The engine provides the environment, the player the content.\\ For example: There are no names for locations defined by the engine except a few exclusions. It' on behalf of the player to name what they want to name.

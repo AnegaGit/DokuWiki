@@ -1,0 +1,13 @@
+====== Threeleaf ======
+Threeleaf can often be found in large groups in the broadleaf forest and swamps.
+
+{{vegetation:threeleaf.jpg|Threeleaf}}
+All 4 phases and 3 findings.
+===== Live Cycle =====
+The herb has 4 phases with different findings.
+^Phase^Finding^when collected^Average duration^when timeout^
+|young|up to 3 leafes|dies|5 days|bloomy|
+|bloomy|-||4 days|ripe|
+|ripe|up to 4 berries|may get destroyed|2 days|old|
+|old|up to 1 root|destroyed|4 days|dies|
+

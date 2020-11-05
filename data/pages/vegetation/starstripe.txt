@@ -1,0 +1,13 @@
+====== Starstripe ======
+Starstripe grows in groups on meadows and in light forests.
+
+{{ vegetation:starstripe.jpg |Starstripe}}
+All 5 phases and 2 findings.
+===== Live Cycle =====
+The herb has 5 phases with different findings. It cycles about 5 times through the adult phase.
+^Phase^Finding^when collected^Average duration^when timeout^
+|young| ||7 days|adult|
+|adult| ||2 days|bloomy|
+|bloomy| ||4 days|ripe|
+|ripe|about 6 starstripe berries|90% adult\\ 10% dies|4 days|80% adult\\ 20% old|
+|old|about 2 starstripe leafs|dies|7 days|dies|

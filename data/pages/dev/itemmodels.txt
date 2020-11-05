@@ -21,7 +21,7 @@ Groups are:
 ===== Prefab =====
 The prefab based on an empty game object at position 0;0;0 with no rotation and scale. This is also the position where the prefab is hold in hand.
 
-The prefab contains the model as //Model//. The model itself can contain multiple components.
+The prefab contains the model. The model itself can contain multiple components.
 
 The direction is as follow:\\
 {{ :prefab_direction.jpg?nolink&400 |}}\\
@@ -32,4 +32,4 @@ The direction is as follow:\\
 
 The model has to be scaled.
 
-The model needs a collider. Mesh collider shall be used.
+The model needs a collider. Simple collider shall be used.

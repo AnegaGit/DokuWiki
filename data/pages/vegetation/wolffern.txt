@@ -1,0 +1,11 @@
+====== Wolffern ======
+Wolffern grow in dense forests.
+
+{{vegetation:wolffern.jpg|Wolffern}}
+All 3 phases and finding.
+===== Live Cycle =====
+The herb has 3 phases and lives very long.
+^Phase^Finding^when collected^Average duration^when timeout^
+|young|a few leafes|dies|7 days|full grown|
+|full grown|some leafes|harvested|523 days|dies|
+|harvested| ||2 days|82% full grown\\ 18% dies|

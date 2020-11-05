@@ -1,0 +1,16 @@
+====== Dark Vision======
+The ability defines how good a character can see without light.
+The amount of ambient light is controlled by the ability.\\
+**Everything went black**
+==== Not Available ====
+//Is there a hand in front of your face?//\\
+Without a strong light source you are lost in the night or in a dungeon. Everything might become black at night.
+==== Poor ====
+//The stars are sometimes enough.//\\
+A little light light the stars show you some of your environment. But in a dungeon everything might become black.
+==== Good ====
+//Cat Eye//\\
+As long as there is any light source you can can clearly recognize the environment. But in a dungeon it may not be that easy.
+==== Excellent ====
+//Torches are overrated.//\\
+You don't need any light source, even in the most dark dungeon.

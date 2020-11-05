@@ -8,6 +8,7 @@ Luck influences the following activities, though sometimes only in homeopathic d
   * Damage, dealt with a weapon 
   * Parry
   * Damage, adsorbed by an armor
+  * Gathering, amount of findings and special findings
 
 
 ===== Priciple =====
@@ -17,7 +18,7 @@ The Sword of Chaos
   * luck portion: 0.4 (40%)
   * best luck: 2
 {{ :luck_process.png?nolink&400 |}}
-30% (15 of 20 from luck portion) are good luck, 10% (5 of 20) are bad luck.\\
+30% (15 of 20 from luck portion) are good luck, 10% (5 of 20) are bad luck. (Total 40%)\\
 The best luck of 2 allows a damage twice as high as normal. Best luck does not affect the bad luck.
 
 In our example 1 out of 10 attacks 'fail' with lower damage and 3 out of 10 attacks are critical hits with up to twice the normal damage.

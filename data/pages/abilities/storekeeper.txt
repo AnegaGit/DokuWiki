@@ -1,5 +1,5 @@
 ====== Storekeeper ======
-The ability defines the total possible amount of storage slots over all deots and bags a character has. Piles of items such as 536 arrows in a singe storage slot count as one. The player is not able to purchase storage capacity exceeding the limit.\\
+The ability defines the total possible amount of storage slots over all depots and bags a character have. Piles of items such as 536 arrows in a singe storage slot count as one. The player is not able to purchase storage capacity exceeding the limit.\\
 The limits are 100, 300, 750, 3000 at the moment.
 
 **Dragons are known for theire	propensity to hoard.**

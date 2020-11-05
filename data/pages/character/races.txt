@@ -1,0 +1,25 @@
+====== Races ======
+There are 4 different races available:
+  * Human
+  * Dwarf
+  * Elf
+  * Orc
+
+The general definition of the breed is based on the Tolkin definition, whereby every race is basically open to all possibilities. So, orcs must not be evil violent and stupid, elves must not be intelligent and kind.
+
+No matter what race you play. At the moment races differ only visually.
+===== Human =====
+This is the average.
+===== Dwarf =====
+The body is smaller and bulkier. Female breasts are less pronounced. The gluteus is more pronounced.\\
+The face is rather round, ears stick out, the mouth has an overbite.\\
+Very dark skin colors are not possible.
+===== Elf =====
+The body is slim, especially arms and legs are longer. Female breasts are more pronounced. The gluteus is less pronounced.\\
+The face is very long and narrow. The pointed ears are close to the head.\\
+Extrem dark skin colors are not allowed, alternatively some shades of gray are available.
+===== Orc =====
+The body has an average size and is bulkier. Female breasts and gluteus are less pronounced.\\
+The face is round with a knotty nose, the mouth as an underbite and fangs. The pointy ears stick out.\\
+All skin colors have a green shade.
+

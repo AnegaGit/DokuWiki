@@ -1,0 +1,42 @@
+====== Books ======
+The book item and its derivates  can contain longer texts.
+{{ :dev:book_read.jpg?400 |Reading}}
+BookType: Book1
+
+To be able to read a book, a character must have **Good** or **Excellent** as [[abilities:abilitiyreadandwrite|ability in ReadWrite]]. With **Poor** one can still read the book title and autor. Illiterate cannot read any.
+===== Prefabs =====
+{{ :dev:book_on_shelf.jpg?400 |Books on a shelf}}
+There are a number of prefab items like books, parchments ans pells. Have a look in //Prefabs\Elements\Paper//.
+===== Book Type =====
+The way a book looks like on reading depends on the book type. The following types are available:
+^Type^Has Cover^Double Sided^ ^
+|Parchment|No|No| |
+|ParchmentDouble|No|Yes| |
+|Book1|Yes|Yes|light cover|
+|Book2|Yes|Yes|dark cover|
+Every type can have multiple pages. 
+===== Design Text =====
+A book text can be formated in some way.
+  * <b>Bold</b>
+  * <i>Italic</i>
+  * RETURN => line feed
+  * <p> => page turn
+Pages are not scrolled. The text must match one page. Longer text is lost.
+
+A page has 14 lines with about 25 letters each. The following text example fits to a page:
+
+<code>The quick brown fox jumps
+over the lazy dog.
+0123456789 The quick
+brown fox jumps over the
+lazy dog. 123456789 The
+quick brown fox jumps
+over the lazy dog. 23456789
+The quick brown fox jumps
+over the lazy dog. 3456789
+The quick brown fox jumps
+over the lazy dog. 456789
+The quick brown fox jumps
+over the lazy dog. 56789
+The quick brown fox jumps</code>
+If the book has an execution button, the last 3 lines are partially under the button and must mot be filled with text.

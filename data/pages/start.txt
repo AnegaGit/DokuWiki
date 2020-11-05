@@ -17,13 +17,20 @@
 [[gm:gmactions|GM Actions]]
 
 == Character ==
+[[character:races|Races]]\\
 [[abilities:abilities|Abilities]]\\
 [[attributes:attributes|Attributes]]\\
 [[skill:skill|Skills]]\\
 [[fighting:fighting|Fighting]]
 
 == Items ==
-[[item:item|Quality, durability and decay]]
+[[item:item|Quality, durability and decay]]\\
+[[vegetation:collections:resources|Resources]]
+
+== Vegetation ==
+[[vegetation:collections:trees|Trees]]\\
+[[vegetation:collections:herbs|Herbs]]\\
+[[vegetation:collections:fruits|Fruits, leafs and roots]]
 
 == Internal ==
 [[internal:nonlinearcurves|Nonlinear Dependencies]]\\

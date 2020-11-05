@@ -1,0 +1,5 @@
+====== Messages ======
+This list contains a number of messages only. These messages require a more detailed explanation. There are much more messages possible.
+
+//This combination of abilities is not permitted. Please check the permissible settings based on the documentation.//\\
+See [[abilities:abilities|Abilities]]

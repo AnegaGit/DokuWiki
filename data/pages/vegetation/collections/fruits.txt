@@ -1,0 +1,25 @@
+====== Fruits, leafs and roots ======
+For the plants where one can find tis see [[vegetation:collections:herbs|here]].
+^Name^Picture^Source^Properties^
+|Black Grain|{{ vegetation:black_grain.png |Black grain}}|[[vegetation:whiteblade|Whiteblade]]|??toxic|
+|Foxine Leaf|{{ :vegetation:foxine_leaf.png |Foxine Leaf}}|[[vegetation:foxine|Foxine]]| |
+|Foxine Seed|{{ :vegetation:foxine_seed.png |Foxine Seed}}|[[vegetation:foxine|Foxine]]| |
+|Glow Moss|{{ vegetation:glow_moss.png |Glow moss}}|[[vegetation:glowmoss|Glowmoss]]|When squeezed it glows\\ for some time green|
+|Heyberry|{{ vegetation:heyberry.png |Heyberry}}|[[vegetation:heyberry|Heyberry]]| |
+|Mountainmoss|{{ vegetation:mountainmoss.png |Red Root}}|[[vegetation:mountainmoss|Mountainmoss]]|When squeezed it glows\\ for some time blue|
+|Red Root|{{ vegetation:red_root.png |Red Root}}|[[vegetation:stinkefinger|Stinkefinger]]| |
+|Rhuro|{{ vegetation:rhuro.png |Rhuro}}|[[vegetation:rhuro|Rhuro]]| |
+|Runkel Root|{{ vegetation:runkel_root.png |Runkel root}}|[[vegetation:runkel|Runkel]]| |
+|Runkel Seed|{{ vegetation:runkel_seed.png |Runkel seed}}|[[vegetation:runkel|Runkel]]| |
+|Starstripe Berry|{{ vegetation:starstripe_berry.png |Starstripe berry}}|[[vegetation:starstripe|Starstripe]]| |
+|Starstripe Leaf|{{ vegetation:starstripe_leaf.png |Starstripe leaf}}|[[vegetation:starstripe|Starstripe]]| |
+|Stinkefinger Leaf|{{ vegetation:stinkefinger_leaf.png |Stinkefinger leaf}}|[[vegetation:stinkefinger|Stinkefinger]]| |
+|Stinkefinger Seed|{{ vegetation:stinkefinger_seed.png |Stinkefinger seed}}|[[vegetation:stinkefinger|Stinkefinger]]| |
+|Stumbletwine Leaf|{{ vegetation:stumbletwine_leaf.png |Stumbletwine leaf}}|[[vegetation:stumbletwine|Stumbletwine]]| |
+|Threeleaf Berry|{{ vegetation:threeleaf_berry.png |Threeleaf berry}}|[[vegetation:threeleaf|Threeleaf]]| |
+|Threeleaf leaf|{{ vegetation:threeleaf_leaf.png |Threeleaf leaf}}|[[vegetation:threeleaf|Threeleaf]]| |
+|Threeleaf Root|{{ vegetation:threeleaf_root.png |Threeleaf root}}|[[vegetation:threeleaf|Threeleaf]]| |
+|White Carrot|{{ vegetation:white_carrot.png |White carrot}}|[[vegetation:heyberry|Heyberry]]| |
+|Whiteblade Grain|{{ vegetation:whiteblade_grain.png |Whiteblade grain}}|[[vegetation:whiteblade|Whiteblade]]| |
+|Whiteblade Leaf|{{ vegetation:whiteblade_leaf.png |Whiteblade leaf}}|[[vegetation:whiteblade|Whiteblade]]| |
+|Wolffern|{{ vegetation:wolffern.png |Wolffern}}|[[vegetation:wolffern|Wolffern]]| |

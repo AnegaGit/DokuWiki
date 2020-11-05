@@ -16,6 +16,7 @@ See also [[mouse|mouse controls]].
 |I|Character information|
 |E|Equipment|
 |B|Backpack|
+|M|Spell list (Magic)|
 |Numpad /|Split stack control|
 ==== Selection ====
 ^Key^Effect^
@@ -25,9 +26,10 @@ See also [[mouse|mouse controls]].
 ^Key^Effect^
 |Shift on Drag&Drop|Split stacks|
 |P|Pick all items in range (plunder)|
+|F9|Screenshot|
 ==== GM, Test and Debug ====
 ^Key^Effect^
 |G|GM Control panel|
-|F2|GM security key|
+|F2|Action security key|
 |K|Kill yourself (suicide)|
 |F5|Test and Debug panel|

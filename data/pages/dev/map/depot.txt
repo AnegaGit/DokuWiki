@@ -1,0 +1,10 @@
+====== Depot ======
+A depot is a stationary container item that can be used by multiple character. it doesn't have to be a chest but can be bag as well.
+
+Each character has a seperate storage in the dpot that is accessible by that character only.\\
+Multiple container can be connected to the same depot. This is defined by a item data.
+
+The item.data1 must be in between 100 and 199.\\
+The following depots are defined yet:
+^item data1^depot^
+|100|Main Town|

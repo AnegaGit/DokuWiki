@@ -1,0 +1,7 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1591621309;s:8:"modified";i:1591692818;}s:11:"last_change";a:8:{s:4:"date";i:1591692818;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:28:"vegetation:collections:mines";s:4:"user";s:0:"";s:3:"sum";s:14:"[Known Mines] ";s:5:"extra";s:0:"";s:10:"sizechange";i:16;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:5:"Mines";s:11:"description";a:2:{s:15:"tableofcontents";a:2:{i:0;a:4:{s:3:"hid";s:5:"mines";s:5:"title";s:5:"Mines";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:11:"known_mines";s:5:"title";s:11:"Known Mines";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:271:"Mines
+
+Coal, ore and gems can be found in mines.
+
+Most are underground mines and require advanced dark vision or light sources.
+
+There are a lot of different vein types and an advanced knowledge is necessary to know whether a vein is a bonanza or just a few lumps of ore.";}s:8:"relation";a:2:{s:10:"references";a:2:{s:28:"abilities:abilitiydarkvision";b:1;s:11:"area:mine01";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1591621309;s:8:"modified";i:1591692818;}s:11:"last_change";a:8:{s:4:"date";i:1591692818;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:28:"vegetation:collections:mines";s:4:"user";s:0:"";s:3:"sum";s:14:"[Known Mines] ";s:5:"extra";s:0:"";s:10:"sizechange";i:16;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

@@ -1,0 +1,22 @@
+====== Waterproof ======
+The ability defines whether and how fast a character can walk in shallow water.\\
+In the worst case the character may even not be able to pass a narrow creek.
+
+**There are more people who died because they drank too much water than too much poison.**
+==== Not Available ====
+//I never touch water//\\
+You fear water so much that you will never put a foot in the smallest puddle. To get across a small creek, you need a bridge.
+==== Poor ====
+//Safety first!//\\
+You slow down drastically when your boots touch water. There could be some danger in the water.\\
+The speed in shallow water is down to 5%.
+==== Good ====
+//I could if I only wanted to.//\\
+You slow down a bit in the water. But you have to be careful because of smooth stones or holes.\\
+The speed in shallow water is down to 40%.\\
+You can just swim in deep water, albeit very slowly. It may take very long to reach an island far away.
+==== Excellent ====
+//Was there just a creek?//\\
+Water practically does not slow you down.\\
+The speed in shallow water is reduced by 5% only.\\
+You can swim in deep water and reach an island in the ocean.

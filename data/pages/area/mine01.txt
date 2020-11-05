@@ -1,0 +1,15 @@
+====== Mine01 ======
+The name in game may be different.
+
+Level: Beginner\\
+Resources: Coal, Iron ore
+Deposit yield: Low
+Warden: No
+===== Location =====
+Close to Main Town\\
+Follow the path into the mountain that starts near the castle. The mine is located after the second larger platform.
+===== Layout =====
+{{ :area:mine01_layout.jpg?400 |Layout}}\\
+Green dot: Entrance\\
+Yellow area: Coal\\
+Zyan area: Iron ore

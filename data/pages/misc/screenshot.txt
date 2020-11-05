@@ -1,0 +1,7 @@
+====== Screenshot ======
+One can use a screenshot program or simply press F9.
+
+The standard folder is c:\%UserProfile%\Pictures.\\
+It is possible to set path and quality in the [[internal:playerpreferences|Player Preferences]].
+
+The function is reported with a flashing camera icon in the left top corner of the screen.

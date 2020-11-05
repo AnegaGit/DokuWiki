@@ -1,0 +1,20 @@
+====== Fire Magic ======
+//Attack is the best defense//\\
+This is the most violent and offensive magic. It contains a lot of damage spell.
+
+Color: Red\\
+Gem  : Ruby
+===== Spells =====
+^Symbol^Spell^Effect^Spellbook item (for GM)^
+^Attack^^^^
+|{{:magic:s_fire_low.png|}}|Minor Fire Damage|Removes a little bit health|LearnMinorFireDamage|
+|{{:magic:s_fire_medium.png|}}|Medium Fire Damage|Removes some health|LearnMediumFireDamage|
+|{{:magic:s_fire_high.png|}}|High Fire Damage|Removes a high portion of health|LearnHighFireDamage|
+|{{:magic:s_fire_area_low.png|}}|Minor Fire Storm|AoE removes some health\\ can damage self|LearnMinorFireStorm|
+|{{:magic:s_fire_area_high.png|}}|Mayor Fire Storm|AoE removes a high portion of health\\ can`t damage self|LearnMayorFireStorm|
+===== Combined Attributes Requirements =====
+The following attributes should be taken into consideration for being a mage of this school:
+|strength|irrelevant|
+|dexterity|1|
+|agility|3|
+|perception|2|

@@ -1,0 +1,11 @@
+====== Stinkefinger ======
+Stinkefinger can often be found in groups in the forest.
+
+{{vegetation:stinkefinger.jpg|Stinkefinger}}
+All 3 phases and 3 findings.
+===== Live Cycle =====
+The herb has 3 phases with different findings.
+^Phase^Finding^when collected^Average duration^when timeout^
+|young|some leafes|dies|8 days|bloomy|
+|bloomy|root\\ requires higher skill|dies|13 days|ripe|
+|ripe|a lot of seeds|66% young\\ 34% dies|21 days|66% young\\ 34% dies|

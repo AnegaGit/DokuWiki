@@ -1,0 +1,5 @@
+====== Trees ======
+For the findings one can find see [[vegetation:collections:resources|here (resources)]] or [[vegetation:collections:fruits|here (fruits)]].
+^Name^Picture^Findings^
+|[[vegetation:oak|Oak]]|{{ :vegetation:oak.jpg?150 |Oak}}|Oak log\\ Oak branch|
+|[[vegetation:pine|Pine]]|{{ vegetation:pine.jpg?150 |Pine}}|Pine log\\ Pine branch\\ Ironwood log\\ Ironwood branch|

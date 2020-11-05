@@ -1,0 +1,39 @@
+====== Ambient Map ======
+The ambient map defines what vegetation grows where.
+
+It is using the red color only and allows 64 different regions. The g and b part can be used to make the color more readable.\\
+Note: It's not possible to use the full 256 since Unity handles colors not as int but as float and blurs the picture. A range of +-2 (4) is save to use.
+
+To avoid intermediate colors (areas without vegetation) use full strength and disable anti aliasing while drawing the map.
+===== Color Definitions =====
+^Region^Red^int^Value(hex)^Example^
+|Forbidden|254|63|#FE0000|<color /#FE0000>_ _ _ _ _ _ _ _ _</color>|
+|Not yet used|250|62|#FAFAFA|<color /#FAFAFA>_ _ _ _ _ _ _ _ _</color>|
+|Meadow|230|57|#E6FF00|<color /#E6FF00>_ _ _ _ _ _ _ _ _</color>|
+|Prairie|210|52|#D2C900|<color /#D2C900>_ _ _ _ _ _ _ _ _</color>|
+|High mountain|206|51|#CEE1F0|<color /#CEE1F0>_ _ _ _ _ _ _ _ _</color>|
+|Rocky mountain|170|42|#AAAAAA|<color /#AAAAAA>_ _ _ _ _ _ _ _ _</color>|
+|Open swamp|130|32|#827800|<color /#827800>_ _ _ _ _ _ _ _ _</color>|
+|Forest swamp|126|31|#7EC9A3|<color /#7EC9A3>_ _ _ _ _ _ _ _ _</color>|
+|Dense broadleaf forest|86|21|#569700|<color /#569700>_ _ _ _ _ _ _ _ _</color>|
+|Light broadleaf forest|82|20|#52ECAA|<color /#52ECAA>_ _ _ _ _ _ _ _ _</color>|
+|Dense pine forest|46|11|#2EC800|<color /#2EC800>_ _ _ _ _ _ _ _ _</color>|
+|Light pine forest|42|10|#2AFF00|<color /#2AFF00>_ _ _ _ _ _ _ _ _</color>|
+|Shallow water|10|2|#0A97C6|<color /#0A97C6>_ _ _ _ _ _ _ _ _</color>|
+|Deep water|6|1|#0600FF|<color /#0600FF>_ _ _ _ _ _ _ _ _</color>|
+|Ocean|2|0|#02FFFF|<color /#02FFFF>_ _ _ _ _ _ _ _ _</color>|
+===== Import Settings =====
+To read the file correct, the following import Settings are essential:
+  * File size must be 2^nx2^n and larger than the base terrain of the area. (e.g.128x128 for a 100x100 terrain)
+  * Texture Type: default
+  * Texture Shape: 2D
+  * Read/Write Enabled: true
+  * Streaming MipMap: false
+  * Generate MipMap: false
+  * Max Size == file size
+  * Format: RGBA 32bit
+{{ :dev:map:png_import_settings.jpg |Import settings}}
+===== Read the picture =====
+Upward world z diretion (picture y)\\
+Rightward world x direction (picture x)\\
+The file must be mirrored in y direction to read the correct position. Unity zero is top/left, Bitmap zero is bottom/left)

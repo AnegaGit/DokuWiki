@@ -1,0 +1,25 @@
+====== Earth Magic ======
+//Don't forget a solid foundation//\\
+This school stands on the ground with both legs and the ground obeys.\\
+One can feel the mana in the ground, erect or collapse powerful shields and fragile bridges.\\
+Earth-based attacks don't go far.
+
+Color: Yellow\\
+Gem  : Topaz
+===== Spells =====
+^Symbol^Spell^Effect^Spellbook item (for GM)^
+|{{:magic:manafield.png|}}|Show Mana Field|Shows the density of the mana field at the current location|LearnManaField|
+^Attack^^^^
+|{{:magic:s_earthquake_weak.png|}}|Minor local earthquake|Shakes the earth under your taget a little\\ generates a little bit damage and maybe a short stun|LearnMinorLocalEarthquake|
+|{{:magic:s_earthquake_strong.png|}}|Local earthquake|Shakes the earth under your taget\\ generates some damage and maybe a short stun|LearnLocalEarthquake|
+|{{:magic:s_earthquake_area.png|}}|Earthquake|Shakes the earth under your taget's feet\\ generates some damage and maybe a short stun\\ except for yourself|LearnEarthquake|
+^Protection^^^^
+|{{:magic:hardshell1.png|}}|Protective Shell|Covers the body with a minor protection for some seconds\\ Improves health and health regeneration\\ applicableon characters including yourself|LearnProtectiveShell|
+|{{:magic:hardshell2.png|}}|Hard Shell|Covers the body with a stone shell\\ Improves health and health regeneration\\ applicable on characters including yourself|LearnHardShell|
+|{{:magic:hardshell3.png|}}|Stone Shell|Covers the body with a powerful protection layer for some minutes\\ Improves health and health regeneration up to 150% of the basic value.\\ Protects everybody, even monster|LearnStoneShell|
+===== Combined Attributes Requirements =====
+The following attributes should be taken into consideration for being a mage of this school:
+|strength|irrelevant|
+|dexterity|2|
+|agility|1|
+|perception|3|

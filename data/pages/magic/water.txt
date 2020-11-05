@@ -1,0 +1,34 @@
+====== Water Magic ======
+//Everything flows more or less//\\
+It is one with everything that changes. Some call this school of magic the magic of life.\\
+Here you will find healing spells.\\
+Shields or attacks made of water or ice are rather weak.
+
+Color: Blue\\
+Gem  : Sapphire
+===== Spells =====
+^Symbol^Spell^Effect^Spellbook item (for GM)^
+^Healing^^^^
+|{{:magic:s_heart_low.png|}}|Cure Minor Wounds|Replenish a little bit health|LearnCureMinorWounds|
+|{{:magic:s_heart_medium.png|}}|Cure Medium Wounds|Replenish some health|LearnCureMediumWounds|
+|{{:magic:s_heart_high.png|}}|Cure Large Wounds|Replenish health|LearnCureLargeWounds|
+|{{:magic:s_heart_top.png|}}|Revitalize|Cure even serious wounds at once|LearnRevitalize|
+|{{:magic:s_heart_area_medium.png|}}|Cure All Friends|Cure medium wounds of everybody around yourself|LearnCureAllFriends|
+|{{:magic:s_heart_area_top.png|}}|Revitalize All|Cure even serious wounds at once for everybody next to you|LearnRevitalizeAll|
+^Mana Refill^^^^
+|{{:magic:manarefill_low.png|}}|Transfer minor mana|Transfer a little bit mana to the target.|LearnMinorManaTransfer|
+|{{:magic:manarefill_medium.png|}}|Transfer medium mana|Transfer some mana to the target.|LearnMediumManaTransfer|
+|{{:magic:manarefill_high.png|}}|Transfer mana|Transfer mana to the target.|LearnManaTransfer|
+|{{:magic:manarefill_top.png|}}|Mana Restoration|Refill the mana of the target with your own.|LearnManaReszauration|
+^Attack^^^^
+|{{:magic:s_iceattack_low.png|}}|Minor ice attack|Damage the taget a little bit\\s ahort stun possibly|LearnMinorIceAttack|
+|{{:magic:s_iceattack_medium.png|}}|Medium ice attack|Damage the taget\\ Some stun possibe|LearnMediumIceAttack|
+|{{:magic:s_iceattack_high.png|}}|Strong ice attack|Damage the taget and stun it most likely for some seconds|LearnStrongIceAttack|
+^Shield^^^^
+|{{:magic:magicshields.png|}}|Water Shield|Adds a little bit protection to everybody in a range.\\ Applicable to self, character and monster|LearnWaterShield|
+===== Combined Attributes Requirements =====
+The following attributes should be taken into consideration for being a mage of this school:
+|strength|irrelevant|
+|dexterity|1|
+|agility|2|
+|perception|3|

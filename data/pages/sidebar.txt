@@ -14,10 +14,21 @@
 [[abilities:abilities|Abilities]]\\
 [[attributes:attributes|Attributes]]\\
 [[skill:skill|Skills]]\\
-[[fighting:fighting|Fighting]]
+[[fighting:fighting|Fighting]]\\
+[[magic:magicschool|Magic]]
 
 == Items ==
-[[item:item|Quality, durability and decay]]
+[[item:item|Quality, durability and decay]]\\
+[[vegetation:collections:resources|Resources]]
+
+== Vegetation ==
+[[vegetation:collections:trees|Trees]]\\
+[[vegetation:collections:herbs|Herbs]]\\
+[[vegetation:collections:fruits|Fruits, leafs and roots]]
+
+== FAQ ==
+[[faq|Frequently Asked Questions]]\\
+[[messages|Messages]]
 
 == Internal ==
 [[internal:nonlinearcurves|Nonlinear Dependencies]]\\

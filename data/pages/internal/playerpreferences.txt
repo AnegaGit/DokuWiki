@@ -38,6 +38,9 @@ Colors must be in rgba float notation (0.0=0, 1.0=255): <code>{"r": 1.0,"g": 0.3
 |cameraRotationSpeed|rotation speed on pressed mouse key|>0|
 |cameraZoomSpeed|zoom speed on mouse wheel|>0|
 |keyToggleCamera|toggle fixing camera in 3rd person view|ASCII Key code|
+^**Screenshot**^^^
+|screenshotFolder|Folder for screenshots|Folder|
+|screenshotQuality|Quality of jpg|1-100|
 ^**Chat behaviour**^^^
 |stayInChat|Leave or stay in chat chat on Return|0 / 1|
 |chatPrefixWhisper| | |
@@ -85,7 +88,7 @@ Changes were valid with the following message:
 In case of an error the message is:
 <code>...  not loaded. Most likely a JSON format issue.</code>
 Check whether the file is valid json format. Use e.g. the JSON extension of notepad++. Popular mistakes are:
-  *';' at the  line break
+  * no comma '**,**' at the line break
   * missing line breaks
   * parameter names not in "quotes" 
 

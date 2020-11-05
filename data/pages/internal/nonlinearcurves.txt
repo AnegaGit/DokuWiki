@@ -11,3 +11,5 @@
 |19 = throwing:{{:nonlinear19.png?200|}}|20 = skill range:{{:nonlinear20.png?200|}}|21 = skill gain:{{:nonlinear21.png?200|}}|
 |22 = durability price:{{:nonlinear22.png?200|}}|23 = quality price:{{:nonlinear23.png?200|}}|24 = low luck:{{:nonlinear24.png?200|}} |
 |25 = high luck:{{:nonlinear25.png?200|}}|26 = weapon mastery:{{:nonlinear26.png?200|}}|27 = weapon quality:{{:nonlinear27.png?200|}}|
+|28 = reverse mastery:{{:nonlinear28.png?200|}}|29 = mana mastery:{{:nonlinear29.png?200|}}|30 = centered small:{{:nonlinear30.png?200|}} |
+|31 = centered medium:{{:nonlinear31.png?200|}}|32 = centered large:{{:nonlinear32.png?200|}}| |
